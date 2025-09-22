@@ -66,13 +66,13 @@ jobs:
     - name: Validate templates
       run: |
         echo "🔍 Validating templates..."
-        python template_utils.py validate
+        python scripts/template_utils.py validate
         echo "✅ Templates validation completed"
     
     - name: Run news scraper
       run: |
         echo "🕷️ Starting news scraper..."
-        python scraper.py
+        python scripts/scraper.py
         echo "✅ Scraping completed successfully"
     
     - name: Check scraped data
@@ -90,7 +90,7 @@ jobs:
     - name: Generate website
       run: |
         echo "🎨 Starting website generation..."
-        python site_generator.py
+        python scripts/site_generator.py
         echo "✅ Website generated successfully"
     
     - name: Verify generated site
