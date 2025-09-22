@@ -37,11 +37,24 @@ class NewsScraper:
             if not link or link in seen_links:
                 continue
                 
+            # Extraer título y validar que no esté vacío
+            title = title_elem.get_text(strip=True)
+            if not title:
+                continue
+                
+            # Extraer categoría
+            category_elem = story.find('a', {'class': re.compile(r'story-item__section.*')})
+            category = category_elem.get_text(strip=True) if category_elem else ''
+            
+            # Validar que tengamos todos los datos necesarios
+            if not all([title, link, category]):
+                continue  # Ignorar noticias incompletas
+                
             seen_links.add(link)
             news_list.append({
-                'title': title_elem.get_text(strip=True),
+                'title': title,
                 'link': f"https://diariocorreo.pe{link}" if not link.startswith('http') else link,
-                'category': story.find('a', {'class': re.compile(r'story-item__section.*')}).get_text(strip=True) if story.find('a', {'class': re.compile(r'story-item__section.*')}) else 'General',
+                'category': category,
                 'date': date.isoformat()
             })
         
@@ -52,8 +65,14 @@ class NewsScraper:
         os.makedirs(data_dir, exist_ok=True)
         filename = f"news_{datetime.date.today().strftime('%Y-%m-%d')}.json"
         
+        data = {
+            'scrape_date': datetime.date.today().isoformat(),
+            'total_news': len(news_list),
+            'news': news_list
+        }
+        
         with open(os.path.join(data_dir, filename), 'w', encoding='utf-8') as f:
-            json.dump({'news': news_list}, f, ensure_ascii=False, indent=2)
+            json.dump(data, f, ensure_ascii=False, indent=2)
     
     def __del__(self):
         if hasattr(self, 'driver'):
@@ -63,3 +82,4 @@ if __name__ == "__main__":
     scraper = NewsScraper()
     news = scraper.scrape_news()
     scraper.save_news(news)
+    print(f"✅ Scraping completado: {len(news)} noticias válidas guardadas")
