@@ -1,7 +1,13 @@
 {
   "scrape_date": "2025-09-22",
-  "total_news": 2,
+  "total_news": 3,
   "news": [
+    {
+      "title": "🔮 Horóscopo de hoy, 22 de septiembre bajo la lectura de la baraja española",
+      "link": "https://diariocorreo.pe/miscelanea/horoscopo-hoy-lunes-22-septiembre-baraja-espanola-amor-trabajo-y-salud-segun-la-inteligencia-artificial-chatgpt-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-noticia/",
+      "category": "Tendencia",
+      "date": "2025-09-22"
+    },
     {
       "title": "Lima Norte: Velatorio policial de S/7,5 millones sigue cerrado y con riesgo de derrumbarse",
       "link": "https://diariocorreo.pe/edicion/lima/lima-norte-velatorio-policial-de-s75-millones-sigue-cerrado-y-con-riesgo-de-derrumbarse-noticia/",
