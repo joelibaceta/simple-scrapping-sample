@@ -1,0 +1,10 @@
+selenium
+beautifulsoup4
+webdriver-manager
+html2text
+pandas
+PyPDF2
+lxml
+python-docx
+openpyxl
+regex
