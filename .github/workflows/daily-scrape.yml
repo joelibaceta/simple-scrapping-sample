@@ -55,11 +55,11 @@ jobs:
       with:
         chrome-version: stable
     
-    - name: Install ChromeDriver
-      uses: nanasess/setup-chromedriver@v2
+    - name: Set up Chrome for Selenium
+      uses: browser-actions/setup-chrome@v1
       with:
-        chromedriver-version: 'LATEST'
-    
+        chrome-version: stable
+
     - name: Create data directory
       run: mkdir -p data
     
