@@ -1,0 +1,127 @@
+name: Daily News Scraper
+
+on:
+  # Ejecutar diariamente a las 6:00 AM hora de Perú (UTC-5)
+  schedule:
+    - cron: '0 11 * * *'  # 11:00 UTC = 6:00 AM Peru time
+  
+  # Permitir ejecución manual desde GitHub Actions
+  workflow_dispatch:
+  
+  # Ejecutar en push para testing (opcional)
+  push:
+    branches: [ main ]
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Set up Chrome for Selenium
+      uses: browser-actions/setup-chrome@v1
+      with:
+        chrome-version: stable
+    
+    - name: Install ChromeDriver
+      uses: nanasess/setup-chromedriver@v2
+    
+    - name: Create data directory
+      run: mkdir -p data
+    
+    - name: Run news scraper
+      run: |
+        python scraper.py
+        echo "✅ Scraping completed successfully"
+    
+    - name: Check scraped data
+      run: |
+        if [ -f data/news_$(date +%Y-%m-%d).json ]; then
+          echo "✅ News data file created successfully"
+          echo "📊 File size: $(du -h data/news_$(date +%Y-%m-%d).json | cut -f1)"
+          echo "📈 News count: $(jq '.total_news' data/news_$(date +%Y-%m-%d).json)"
+        else
+          echo "❌ No news data file found"
+          ls -la data/
+          exit 1
+        fi
+    
+    - name: Generate website
+      run: |
+        python site_generator.py
+        echo "✅ Website generated successfully"
+    
+    - name: Verify generated site
+      run: |
+        if [ -f docs/index.html ]; then
+          echo "✅ Website HTML created successfully"
+          echo "📄 HTML file size: $(du -h docs/index.html | cut -f1)"
+        else
+          echo "❌ Website HTML not found"
+          ls -la docs/
+          exit 1
+        fi
+    
+    - name: Configure Git
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+    
+    - name: Commit and push changes
+      run: |
+        git add data/ docs/
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "📰 Daily news update - $(date +%Y-%m-%d)"
+          git push
+          echo "✅ Changes committed and pushed"
+        fi
+    
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
+    
+    - name: Upload to GitHub Pages
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: './docs'
+    
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
+    
+    - name: Summary
+      run: |
+        echo "🎉 Daily scraping and deployment completed!"
+        echo "📊 Check the generated site at: ${{ steps.deployment.outputs.page_url }}"
+        echo "📅 Date: $(date)"
+        echo "🕷️ Scraper: ✅ Completed"
+        echo "🎨 Site Generator: ✅ Completed"
+        echo "🚀 Deployment: ✅ Completed"

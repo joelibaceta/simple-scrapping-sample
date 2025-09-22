@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{TITLE}}</title>
+    <meta name="description" content="{{DESCRIPTION}}">
+    <meta name="author" content="News Scraper Bot">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>📰 Diario Digital</h1>
+            <div class="subtitle">Noticias del Perú • Actualización Diaria</div>
+            <div class="date">{{LAST_UPDATE}}</div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <section class="stats">
+                <h2>Resumen del Día</h2>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <div class="stat-number">{{TOTAL_NEWS}}</div>
+                        <div class="stat-label">Noticias Extraidas</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">{{TOTAL_CATEGORIES}}</div>
+                        <div class="stat-label">Categorías</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number">100%</div>
+                        <div class="stat-label">Sin Duplicados</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="news-section">
+                <div class="news-grid">
+                    {{NEWS_CARDS}}
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <p>© {{CURRENT_YEAR}} Diario Digital - Generado automáticamente</p>
+            <p>Fuente: <a href="https://diariocorreo.pe" style="color: #dc3545;">Diario Correo</a></p>
+        </div>
+    </footer>
+</body>
+</html>

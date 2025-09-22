@@ -1,0 +1,22 @@
+<div class="news-card">
+    {{THUMBNAIL_HTML}}
+    <div class="news-card-content">
+        <div class="news-card-header">
+            <div class="news-number">#{{NEWS_ID}}</div>
+            <div class="news-meta-top">
+                <div class="news-category">{{CATEGORY}}</div>
+                {{TIME_HTML}}
+            </div>
+            <div class="news-title">
+                <a href="{{LINK}}" target="_blank" rel="noopener">
+                    {{TITLE}}
+                </a>
+            </div>
+        </div>
+        {{DESCRIPTION_HTML}}
+        <div class="news-meta">
+            <strong>Fuente:</strong> Diario Correo • 
+            <strong>Fecha:</strong> {{DATE}}{{TIME_META}}
+        </div>
+    </div>
+</div>
