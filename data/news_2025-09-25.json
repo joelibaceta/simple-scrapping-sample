@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2025-09-25",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "MTC lanza concurso para expediente técnico del aeropuerto de Jauja",
+      "link": "https://diariocorreo.pe/edicion/huancayo/mtc-lanza-concurso-para-expediente-tecnico-del-aeropuerto-de-jauja-noticia/",
+      "category": "Huancayo",
+      "date": "2025-09-25"
+    },
+    {
+      "title": "Presidenta Dina Boluarte clausurará mañana PERUMIN 37 Convención Minera",
+      "link": "https://diariocorreo.pe/economia/presidenta-dina-boluarte-clausurara-manana-perumin-37-convencion-minera-noticia/",
+      "category": "Economía",
+      "date": "2025-09-25"
+    },
+    {
+      "title": "🔮 Horóscopo de hoy, 25 de septiembre bajo la lectura de la baraja española",
+      "link": "https://diariocorreo.pe/miscelanea/horoscopo-hoy-jueves-25-septiembre-baraja-espanola-amor-trabajo-y-salud-segun-la-inteligencia-artificial-chatgpt-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-noticia/",
+      "category": "Tendencia",
+      "date": "2025-09-25"
+    },
+    {
+      "title": "No hay acuerdos en transporte y hoy empresas acatan un paro de 24 horas en Huancayo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/no-hay-acuerdos-en-transporte-y-hoy-empresas-acatan-un-paro-de-24-horas-noticia/",
+      "category": "Huancayo",
+      "date": "2025-09-25"
+    }
+  ]
+}
