@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-10-01",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Liga 1: Sport Huancayo remonta con goleada al Alianza UDH",
+      "link": "https://diariocorreo.pe/edicion/huancayo/liga-1-sport-huancayo-remonta-con-goleada-al-alianza-udh-noticia/",
+      "category": "Huancayo",
+      "date": "2025-10-01"
+    },
+    {
+      "title": "🔮 Horóscopo de hoy, 1 de octubre con la lectura de la baraja española",
+      "link": "https://diariocorreo.pe/miscelanea/horoscopo-hoy-1-octubre-baraja-espanola-amor-trabajo-y-salud-segun-la-inteligencia-artificial-chatgpt-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-noticia/",
+      "category": "Tendencia",
+      "date": "2025-10-01"
+    },
+    {
+      "title": "El dólar retrocedió ayer a S/3.473, un valor muy similar al de junio del 2020",
+      "link": "https://diariocorreo.pe/economia/el-dolar-retrocedio-ayer-a-s3473-un-valor-muy-similar-al-de-junio-del-2020-noticia/",
+      "category": "Economía",
+      "date": "2025-10-01"
+    }
+  ]
+}
