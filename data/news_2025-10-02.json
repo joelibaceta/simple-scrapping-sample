@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-10-02",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "BCR: Un sistema de pensiones debe ser obligatorio y con cuentas individuales",
+      "link": "https://diariocorreo.pe/economia/bcr-un-sistema-de-pensiones-debe-ser-obligatorio-y-con-cuentas-individuales-noticia/",
+      "category": "Economía",
+      "date": "2025-10-02"
+    },
+    {
+      "title": "🔮 Horóscopo de hoy, 2 de octubre con la lectura de la baraja española",
+      "link": "https://diariocorreo.pe/miscelanea/horoscopo-hoy-2-octubre-baraja-espanola-amor-trabajo-y-salud-segun-la-inteligencia-artificial-chatgpt-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-noticia/",
+      "category": "Tendencia",
+      "date": "2025-10-02"
+    },
+    {
+      "title": "Susy Díaz estará con Shakira en “Camina con la Loba”",
+      "link": "https://diariocorreo.pe/espectaculos/susy-diaz-estara-con-shakira-en-camina-con-la-loba-noticia/",
+      "category": "Espectáculos",
+      "date": "2025-10-02"
+    }
+  ]
+}
