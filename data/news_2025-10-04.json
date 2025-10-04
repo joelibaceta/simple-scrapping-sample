@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2025-10-04",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Abogada muere al caer a precipicio en la Carretera Central en Jauja",
+      "link": "https://diariocorreo.pe/edicion/abogada-muere-al-caer-a-precipicio-en-la-carretera-central-en-jauja-noticia/",
+      "category": "Edición",
+      "date": "2025-10-04"
+    },
+    {
+      "title": "Cinco policías que venían a visitar a su familia caen al río Mantaro",
+      "link": "https://diariocorreo.pe/edicion/huanuco/cinco-policias-que-venian-a-visitar-a-su-familia-caen-al-rio-mantaro-noticia/",
+      "category": "Huánuco",
+      "date": "2025-10-04"
+    },
+    {
+      "title": "🔮 Horóscopo de hoy, 4 de octubre con la lectura de la baraja española",
+      "link": "https://diariocorreo.pe/miscelanea/horoscopo-hoy-4-octubre-baraja-espanola-amor-trabajo-y-salud-segun-la-inteligencia-artificial-chatgpt-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-noticia/",
+      "category": "Tendencia",
+      "date": "2025-10-04"
+    },
+    {
+      "title": "Tacna: Rescatan a familia de la explotación laboral en operativo policial y fiscal",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-rescatan-a-familia-de-la-explotacion-en-operativo-policial-y-fiscal-noticia/",
+      "category": "Tacna",
+      "date": "2025-10-04"
+    }
+  ]
+}
