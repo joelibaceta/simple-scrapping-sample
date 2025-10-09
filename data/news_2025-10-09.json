@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-10-09",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Vanesa Martín, cantante y compositora: “No escribo pensando en a quién le va a gustar” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/vanesa-martin-cantante-y-compositora-no-escribo-pensando-en-a-quien-le-va-a-gustar-noticia/",
+      "category": "Espectáculos",
+      "date": "2025-10-09"
+    },
+    {
+      "title": "Huancayo: va a vender ropa y muere aplastado por un pesado camión",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-va-a-vender-ropa-y-muere-aplastado-por-un-pesado-camion-noticia/",
+      "category": "Huancayo",
+      "date": "2025-10-09"
+    },
+    {
+      "title": "Mujer tenía accesorios de carros robados en su tienda en Huancayo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/mujer-tenia-accesorios-de-carros-robados-en-su-tienda-en-huancayo-noticia/",
+      "category": "Huancayo",
+      "date": "2025-10-09"
+    }
+  ]
+}
