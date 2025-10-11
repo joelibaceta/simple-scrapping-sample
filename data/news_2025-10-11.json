@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2025-10-11",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Huancayo: atrapan a seis que pedían dinero por droga robada",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-atrapan-a-seis-que-pedian-dinero-por-droga-robada-noticia/",
+      "category": "Huancayo",
+      "date": "2025-10-11"
+    },
+    {
+      "title": "Huancavelica: bus queda colgado en abismo y 33 se salvan",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancavelica-bus-queda-colgado-en-abismo-y-33-se-salvan-noticia/",
+      "category": "Huancayo",
+      "date": "2025-10-11"
+    },
+    {
+      "title": "Más de doce gremios empresariales piden seguridad y estabilidad ante el cambio de gobierno",
+      "link": "https://diariocorreo.pe/economia/mas-de-doce-gremios-empresariales-piden-seguridad-y-estabilidad-ante-el-cambio-de-gobierno-noticia/",
+      "category": "Economía",
+      "date": "2025-10-11"
+    },
+    {
+      "title": "🔮 Horóscopo de hoy, 11 de octubre con la lectura de la baraja española",
+      "link": "https://diariocorreo.pe/miscelanea/horoscopo-hoy-11-octubre-baraja-espanola-amor-trabajo-y-salud-segun-la-inteligencia-artificial-chatgpt-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-noticia/",
+      "category": "Tendencia",
+      "date": "2025-10-11"
+    },
+    {
+      "title": "Dólar repunta y Bolsa de Valores de Lima cae 1.78% por efecto de crisis política",
+      "link": "https://diariocorreo.pe/economia/el-dolar-repunta-y-la-bolsa-de-valores-de-lima-cae-178-por-efecto-de-crisis-politica-noticia/",
+      "category": "Economía",
+      "date": "2025-10-11"
+    }
+  ]
+}
