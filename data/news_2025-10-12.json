@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2025-10-12",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Vehículo lleno de pasajeros al Mantaro en Huancavelica",
+      "link": "https://diariocorreo.pe/edicion/huancayo/vehiculo-lleno-de-pasajeros-al-mantaro-en-huancavelica-noticia/",
+      "category": "Huancayo",
+      "date": "2025-10-12"
+    },
+    {
+      "title": "Venezolano armado roba a tres y lo atrapan por GPS en Huancayo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/venezolano-armado-roba-a-tres-y-lo-atrapan-por-gps-en-huancayo-noticia/",
+      "category": "Huancayo",
+      "date": "2025-10-12"
+    },
+    {
+      "title": "Va preso por abusar a golpes de su expareja en Huancayo",
+      "link": "https://diariocorreo.pe/edicion/va-preso-por-abusar-a-golpes-de-su-expareja-en-huancayo-noticia/",
+      "category": "Edición",
+      "date": "2025-10-12"
+    },
+    {
+      "title": "🔮 Horóscopo de hoy, 12 de octubre con la lectura de la baraja española",
+      "link": "https://diariocorreo.pe/miscelanea/horoscopo-hoy-12-octubre-baraja-espanola-amor-trabajo-y-salud-segun-la-inteligencia-artificial-chatgpt-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-noticia/",
+      "category": "Tendencia",
+      "date": "2025-10-12"
+    }
+  ]
+}
