@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-10-24",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "GRA no cumple promesa con niños de Huarcaya",
+      "link": "https://diariocorreo.pe/edicion/arequipa/gra-no-cumple-promesa-con-ninos-de-huarcaya-noticia/",
+      "category": "Arequipa",
+      "date": "2025-10-24"
+    },
+    {
+      "title": "Ocho investigados del Caso Cocteles purgaron prisión preventiva o arresto domiciliario",
+      "link": "https://diariocorreo.pe/politica/ocho-investigados-del-caso-cocteles-purgaron-prision-preventiva-o-arresto-domiciliario-noticia/",
+      "category": "Política",
+      "date": "2025-10-24"
+    },
+    {
+      "title": "Precios de los metales tendrán un gran peso en las exportaciones peruanas durante el 2025",
+      "link": "https://diariocorreo.pe/economia/precios-de-los-metales-tendran-un-gran-peso-en-las-exportaciones-peruanas-durante-el-2025-noticia/",
+      "category": "Economía",
+      "date": "2025-10-24"
+    }
+  ]
+}
