@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2025-10-25",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "El “Che” Bermejo purgará prisión hasta el 2040",
+      "link": "https://diariocorreo.pe/politica/el-che-bermejo-purgara-prision-hasta-el-2040-noticia/",
+      "category": "Política",
+      "date": "2025-10-25"
+    },
+    {
+      "title": "Huancayo: Caen “peperas y tarjeteros” en antro",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-caen-peperas-y-tarjeteros-en-antro-noticia/",
+      "category": "Huancayo",
+      "date": "2025-10-25"
+    }
+  ]
+}
