@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2025-10-28",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Huancayo: Comerciantes de flores esperan que ventas suban al 100%",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-comerciantes-de-flores-esperan-que-ventas-suban-al-100-noticia/",
+      "category": "Huancayo",
+      "date": "2025-10-28"
+    },
+    {
+      "title": "🔮 Horóscopo de hoy, 28 de octubre con la lectura de la baraja española",
+      "link": "https://diariocorreo.pe/miscelanea/horoscopo-hoy-28-octubre-baraja-espanola-amor-trabajo-y-salud-segun-la-inteligencia-artificial-chatgpt-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-noticia/",
+      "category": "Tendencia",
+      "date": "2025-10-28"
+    },
+    {
+      "title": "Daniel Duplat, cantautor colombiano: “Mis canciones reflejan la crudeza y belleza de las cosas” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/musica-daniel-duplat-cantautor-colombiano-mis-canciones-reflejan-la-crudeza-y-belleza-de-las-cosas-entrevista-noticia/",
+      "category": "Espectáculos",
+      "date": "2025-10-28"
+    },
+    {
+      "title": "La inseguridad hace retroceder la demanda de créditos de las microempresas",
+      "link": "https://diariocorreo.pe/economia/la-inseguridad-hace-retroceder-la-demanda-de-creditos-de-las-microempresas-noticia/",
+      "category": "Economía",
+      "date": "2025-10-28"
+    }
+  ]
+}
