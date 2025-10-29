@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2025-10-29",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Gobierno designó un nuevo jefe de la Sunat y suma cuatro en lo que va del 2025",
+      "link": "https://diariocorreo.pe/economia/gobierno-designo-un-nuevo-jefe-de-la-sunat-y-suma-cuatro-en-lo-que-va-del-2025-noticia/",
+      "category": "Economía",
+      "date": "2025-10-29"
+    },
+    {
+      "title": "Siete congresistas con presuntos nexos por terrorismo",
+      "link": "https://diariocorreo.pe/politica/siete-congresistas-con-presuntos-nexos-por-terrorismo-noticia/",
+      "category": "Política",
+      "date": "2025-10-29"
+    },
+    {
+      "title": "Belinda Palacios, escritora peruana: “Halloween tiene un trasfondo real y cultural” (Entrevista)",
+      "link": "https://diariocorreo.pe/cultura/literatura-infantil-belinda-palacios-escritora-peruana-halloween-tiene-un-trasfondo-real-y-cultural-entrevista-ficcion-penguin-kids-magia-brujas-espiritus-noticia/",
+      "category": "Cultura",
+      "date": "2025-10-29"
+    },
+    {
+      "title": "Solo tres de cada 10 personas ahorra regularmente en el Perú",
+      "link": "https://diariocorreo.pe/economia/solo-tres-de-cada-10-personas-ahorra-regularmente-en-el-peru-noticia/",
+      "category": "Economía",
+      "date": "2025-10-29"
+    }
+  ]
+}
