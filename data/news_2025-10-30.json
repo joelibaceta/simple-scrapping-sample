@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-10-30",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Libre fiscal “chibolina” Elizabeth Peralta por PJ",
+      "link": "https://diariocorreo.pe/politica/libre-fiscal-chibolina-elizabeth-peralta-por-pj-noticia/",
+      "category": "Política",
+      "date": "2025-10-30"
+    },
+    {
+      "title": "🔮 Horóscopo de hoy, 30 de octubre con la lectura de la baraja española",
+      "link": "https://diariocorreo.pe/miscelanea/horoscopo-hoy-30-octubre-baraja-espanola-amor-trabajo-y-salud-segun-la-inteligencia-artificial-chatgpt-aries-tauro-geminis-cancer-leo-virgo-libra-escorpio-sagitario-capricornio-acuario-piscis-noticia/",
+      "category": "Tendencia",
+      "date": "2025-10-30"
+    },
+    {
+      "title": "Huancayo: Por paro de docentes suspenden clases presenciales",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-por-paro-de-docentes-suspenden-clases-presenciales-noticia/",
+      "category": "Huancayo",
+      "date": "2025-10-30"
+    }
+  ]
+}
