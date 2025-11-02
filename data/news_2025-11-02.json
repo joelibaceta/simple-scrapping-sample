@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2025-11-02",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Los Morunos darán concierto en Piura en una noche de boleros y nostalgia",
+      "link": "https://diariocorreo.pe/espectaculos/los-morunos-daran-concierto-en-piura-en-una-noche-de-boleros-y-nostalgia-noticia/",
+      "category": "Espectáculos",
+      "date": "2025-11-02"
+    },
+    {
+      "title": "Huancayo: cámara de seguridad capta a ladrones de tiendas de cómputo",
+      "link": "https://diariocorreo.pe/edicion/huancayo-camara-de-seguridad-capta-a-ladrones-de-tiendas-de-computo-noticia/",
+      "category": "Edición",
+      "date": "2025-11-02"
+    },
+    {
+      "title": "Jauja: amigos son apuñalados tras riña callejera cuando regresaban de celebrar Halloween",
+      "link": "https://diariocorreo.pe/edicion/jauja-amigos-son-apunalados-tras-rina-callejera-cuando-regresaban-de-celebrar-halloween-noticia/",
+      "category": "Edición",
+      "date": "2025-11-02"
+    },
+    {
+      "title": "Tacna: Municipio pagó más de 180 mil soles por obra de agua inconclusa",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-municipio-pago-mas-de-180-mil-soles-por-obra-de-agua-inconclusa-noticia/",
+      "category": "Tacna",
+      "date": "2025-11-02"
+    },
+    {
+      "title": "Liga 1: Equipos piuranos juegan hoy un duelo decisivo",
+      "link": "https://diariocorreo.pe/deportes/liga-1-equipos-piuranos-juegan-hoy-un-duelo-decisivo-noticia/",
+      "category": "Deportes",
+      "date": "2025-11-02"
+    }
+  ]
+}
