@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-11-22",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: agreden y secuestran a fiscalizadores en operativo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-agreden-y-secuestran-a-fiscalizadores-en-operativo-noticia/",
+      "category": "Huancayo",
+      "date": "2025-11-22"
+    },
+    {
+      "title": "Huancayo: detienen a pareja y a ex por muerte de una escolar",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-detienen-a-pareja-y-a-ex-por-muerte-de-una-escolar-noticia/",
+      "category": "Huancayo",
+      "date": "2025-11-22"
+    },
+    {
+      "title": "El show de Noblecilla en el Legislativo (EDITORIAL)",
+      "link": "https://diariocorreo.pe/opinion/el-show-de-noblecilla-en-el-legislativo-editorial-noticia/",
+      "category": "Opinión",
+      "date": "2025-11-22"
+    }
+  ]
+}
