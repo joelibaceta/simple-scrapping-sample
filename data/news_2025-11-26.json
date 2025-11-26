@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2025-11-26",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "400 litros de agave para turistas en festival en Sincos",
+      "link": "https://diariocorreo.pe/edicion/400-litros-de-agave-para-turistas-en-festival-en-sincos-noticia/",
+      "category": "Edición",
+      "date": "2025-11-26"
+    },
+    {
+      "title": "El gasto privado y las exportaciones sustentarán el crecimiento de la actividad económica en el 2026",
+      "link": "https://diariocorreo.pe/economia/el-gasto-privado-y-las-exportaciones-sustentaran-el-crecimiento-de-la-actividad-economica-en-el-2026-noticia/",
+      "category": "Economía",
+      "date": "2025-11-26"
+    },
+    {
+      "title": "Huancayo: Papá minero muere aplastado por su propio station y su hija de 3 años queda grave",
+      "link": "https://diariocorreo.pe/edicion/huancayo-papa-minero-muere-aplastado-por-su-propio-station-y-su-hija-de-3-anos-queda-grave-noticia/",
+      "category": "Edición",
+      "date": "2025-11-26"
+    },
+    {
+      "title": "Sincos: 400 litros de licor de agave para turistas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/sincos-400-litros-de-licor-de-agave-para-turistas-noticia/",
+      "category": "Huancayo",
+      "date": "2025-11-26"
+    },
+    {
+      "title": "Dua Lipa cantó “Cariñito” junto a Mauricio Mesones en el Estadio San Marcos (VIDEO)",
+      "link": "https://diariocorreo.pe/videos/espectaculos/dua-lipa-canto-carinito-junto-a-mauricio-mesones-en-el-estadio-san-marcos-video-noticia/",
+      "category": "Espectáculos",
+      "date": "2025-11-26"
+    },
+    {
+      "title": "Las exportaciones de cobre registraron ingresos por $ 19,360 millones entre enero y setiembre",
+      "link": "https://diariocorreo.pe/economia/las-exportaciones-de-cobre-registraron-ingresos-por-19360-millones-entre-enero-y-setiembre-noticia/",
+      "category": "Economía",
+      "date": "2025-11-26"
+    }
+  ]
+}
