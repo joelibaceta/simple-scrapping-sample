@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-11-27",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: taxista lleva a su esposa al hospital y en unos minutos le roban vehículo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-taxista-lleva-a-su-esposa-al-hospital-y-en-unos-minutos-le-roban-vehiculo-noticia/",
+      "category": "Huancayo",
+      "date": "2025-11-27"
+    },
+    {
+      "title": "Comisión de Economía del Congreso aprobó pedido de facultad legislativa en temas económicos",
+      "link": "https://diariocorreo.pe/economia/comision-de-economia-del-congreso-aprobo-pedido-de-facultad-legislativa-en-temas-economicos-noticia/",
+      "category": "Economía",
+      "date": "2025-11-27"
+    },
+    {
+      "title": "Martín Vizcarra saldrá de prisión en el 2039 por cobro de coimas en caso Lomas de Ilo y Hospital de Moquegua",
+      "link": "https://diariocorreo.pe/politica/martin-vizcarra-saldra-de-prision-en-el-2039-por-recibir-coimas-noticia/",
+      "category": "Política",
+      "date": "2025-11-27"
+    }
+  ]
+}
