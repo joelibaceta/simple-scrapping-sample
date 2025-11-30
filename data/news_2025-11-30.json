@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-11-30",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: roban una ferretería y botica y los capturan",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-roban-una-ferreteria-y-botica-y-los-capturan-noticia/",
+      "category": "Huancayo",
+      "date": "2025-11-30"
+    },
+    {
+      "title": "Huancayo: padre de futbolista fallecido en explosión corrió con la misma suerte",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-padre-de-futbolista-fallecido-en-explosion-corrio-con-la-misma-suerte-noticia/",
+      "category": "Huancayo",
+      "date": "2025-11-30"
+    },
+    {
+      "title": "Dua Lipa conquistó Lima a puro magnetismo (CRÓNICA)",
+      "link": "https://diariocorreo.pe/espectaculos/dua-lipa-conquisto-lima-a-puro-magnetismo-cronica-noticia/",
+      "category": "Espectáculos",
+      "date": "2025-11-30"
+    }
+  ]
+}
