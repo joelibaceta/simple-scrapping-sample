@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2025-12-01",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Ingeniería de Sistema logró el más alto puntaje en examen UNCP",
+      "link": "https://diariocorreo.pe/edicion/huancayo/ingenieria-de-sistema-logro-el-mas-alto-puntaje-en-examen-uncp-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Huancayo: padres protestan y exigen nuevas elecciones Apafa",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-padres-protestan-y-exigen-nuevas-elecciones-apafa-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Junín: Joven de 15 años es uno de los 1848 con VIH",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-joven-de-15-anos-es-uno-de-los-1848-con-vih-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-01"
+    },
+    {
+      "title": "Fiscal Germán Juárez sobre sentencia de Martín Vizcarra: “Nosotros perseguimos delitos, no personas”",
+      "link": "https://diariocorreo.pe/politica/fiscal-german-juarez-sobre-sentencia-de-martin-vizcarra-nosotros-perseguimos-delitos-no-personas-noticia/",
+      "category": "Política",
+      "date": "2025-12-01"
+    }
+  ]
+}
