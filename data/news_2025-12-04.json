@@ -1,0 +1,48 @@
+{
+  "scrape_date": "2025-12-04",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Fiscal Henry Amenábar podría ir hasta 15 años a prisión",
+      "link": "https://diariocorreo.pe/politica/fiscal-henry-amenabar-podria-ir-hasta-15-anos-a-prision-noticia/",
+      "category": "Política",
+      "date": "2025-12-04"
+    },
+    {
+      "title": "Sebastián Llosa: “La gente conecta con tu música cuando eres auténtico”",
+      "link": "https://diariocorreo.pe/espectaculos/sebastian-llosa-la-gente-conecta-con-tu-musica-cuando-eres-autentico-noticia/",
+      "category": "Espectáculos",
+      "date": "2025-12-04"
+    },
+    {
+      "title": "“Roba Casas” asaltan cuatro viviendas en Lambayeque y roban más de S/ 50,000",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/roba-casas-asaltan-cuatro-viviendas-en-lambayeque-y-roban-mas-de-s-50000-noticia/",
+      "category": "Lambayeque",
+      "date": "2025-12-04"
+    },
+    {
+      "title": "Vicios en manejo de S/ 135 mil y pedidos de contratación en GRED Lambayeque",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/vicios-en-manejo-de-s-135-mil-y-pedidos-de-contratacion-en-gred-lambayeque-noticia/",
+      "category": "Lambayeque",
+      "date": "2025-12-04"
+    },
+    {
+      "title": "Capturan a sujetos acusados de secuestro en Chiclayo",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/capturan-a-sujetos-acusados-de-secuestro-en-chiclayo-noticia/",
+      "category": "Lambayeque",
+      "date": "2025-12-04"
+    },
+    {
+      "title": "Sedimentación capacidad del Proyecto Olmos y reduce capacidad de la presa Limón",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/sedimentacion-capacidad-del-proyecto-olmos-y-reduce-capacidad-de-la-presa-limon-noticia/",
+      "category": "Lambayeque",
+      "date": "2025-12-04"
+    },
+    {
+      "title": "Hoy se inicia el VIII Congreso Empresarial del Centro del Perú",
+      "link": "https://diariocorreo.pe/economia/hoy-se-inicia-el-viii-congreso-empresarial-del-centro-del-peru-noticia/",
+      "category": "Economía",
+      "date": "2025-12-04"
+    }
+  ]
+}
