@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2025-12-05",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Piura: La Contraloría responsabiliza al Gobierno Regional de la paralización de la obra del estadio",
+      "link": "https://diariocorreo.pe/edicion/piura/piura-la-contraloria-responsabiliza-al-gobierno-regional-de-la-paralizacion-de-la-obra-del-estadio-noticia/",
+      "category": "Piura",
+      "date": "2025-12-05"
+    },
+    {
+      "title": "BCR interviene y compra $ 294 millones y da respiro al  dólar que cerró en S/ 3.362",
+      "link": "https://diariocorreo.pe/economia/bcr-interviene-y-compra-294-millones-y-da-respiro-al-dolar-que-cerro-en-s-3362-noticia/",
+      "category": "Economía",
+      "date": "2025-12-05"
+    },
+    {
+      "title": "Presidente del Congreso Económico del Centro: “Primer día de trabajo cierra con logro histórico” (VIDEO)",
+      "link": "https://diariocorreo.pe/edicion/huancayo/presidente-del-congreso-economico-del-centro-primer-dia-de-trabajo-cierra-con-logro-historico-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-05"
+    },
+    {
+      "title": "Cazzu en Lima: Una velada mágica con teatralidad y raíces latinoamericanas (CRÓNICA)",
+      "link": "https://diariocorreo.pe/espectaculos/cazzu-en-lima-una-velada-magica-con-teatralidad-y-raices-latinoamericanas-noticia/",
+      "category": "Espectáculos",
+      "date": "2025-12-05"
+    }
+  ]
+}
