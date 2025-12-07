@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2025-12-07",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Huancayo: Ayudan a escolar que es padre a culminar estudios",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-ayudan-a-escolar-que-es-padre-a-culminar-estudios-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-07"
+    },
+    {
+      "title": "Puesto de salud funciona más de dos años en carpas y losa deportiva",
+      "link": "https://diariocorreo.pe/edicion/huancayo/puesto-de-salud-funciona-mas-de-dos-anos-en-carpas-y-losa-deportiva-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-07"
+    },
+    {
+      "title": "Surcubamba: Pelea en comisaría acaba en homicidio de policía",
+      "link": "https://diariocorreo.pe/edicion/surcubamba-pelea-en-comisaria-acaba-en-homicidio-de-policia-noticia/",
+      "category": "Edición",
+      "date": "2025-12-07"
+    },
+    {
+      "title": "Arequipa: Reniec informa que se podrá votar con el DNI caduco",
+      "link": "https://diariocorreo.pe/edicion/arequipa/arequipa-reniec-informa-que-se-podra-votar-con-el-dni-caduco-noticia/",
+      "category": "Arequipa",
+      "date": "2025-12-07"
+    },
+    {
+      "title": "Oxapampa: asesinan a tiros a servidor de Techo Propio",
+      "link": "https://diariocorreo.pe/edicion/huancayo/oxapampa-asesinan-a-tiros-a-servidor-de-techo-propio-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-07"
+    },
+    {
+      "title": "Arequipa: Madre decide interrumpir su embarazo para que puedan salvar su vida",
+      "link": "https://diariocorreo.pe/edicion/arequipa/arequipa-madre-decide-interrumpir-su-embarazo-para-que-puedan-salvar-su-vida-noticia/",
+      "category": "Arequipa",
+      "date": "2025-12-07"
+    }
+  ]
+}
