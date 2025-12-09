@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2025-12-09",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Las exportaciones de servicios apuntan a un crecimiento sostenido",
+      "link": "https://diariocorreo.pe/economia/las-exportaciones-de-servicios-apuntan-a-un-crecimiento-sostenido-noticia/",
+      "category": "Economía",
+      "date": "2025-12-09"
+    },
+    {
+      "title": "Usuarios podrán comunicarse desde zonas sin cobertura terrestre: así funciona la tecnología “D2C” en el Perú tras alianza Entel-Starlink",
+      "link": "https://diariocorreo.pe/tecnologia/usuarios-podran-comunicarse-desde-zonas-sin-cobertura-terrestre-asi-funciona-la-tecnologia-d2c-en-el-peru-tras-alianza-entel-starlink-noticia/",
+      "category": "Tecnología",
+      "date": "2025-12-09"
+    }
+  ]
+}
