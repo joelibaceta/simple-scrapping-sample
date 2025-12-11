@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2025-12-11",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Candidato de Salvemos al Perú sería el primero que se defina por sorteo",
+      "link": "https://diariocorreo.pe/politica/candidato-presidencial-salvemos-al-peru-seria-primero-que-se-defina-por-sorteo-noticia/",
+      "category": "Política",
+      "date": "2025-12-11"
+    },
+    {
+      "title": "AFP: Unos cuatro millones de afiliados se quedaron sin fondo",
+      "link": "https://diariocorreo.pe/economia/afp-unos-cuatro-millones-de-afiliados-se-quedaron-sin-fondo-noticia/",
+      "category": "Economía",
+      "date": "2025-12-11"
+    }
+  ]
+}
