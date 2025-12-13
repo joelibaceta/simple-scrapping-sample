@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2025-12-13",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Huancavelica: Willkaymarca, lugar sagrado, donde sobran los batanes y morteros",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancavelica-willkaymarca-lugar-sagrado-donde-sobran-los-batanes-y-morteros-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-13"
+    },
+    {
+      "title": "Junín: la Policía recibe 183 unidades para enfrentar el crimen",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-la-policia-recibe-183-unidades-para-enfrentar-el-crimen-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-13"
+    },
+    {
+      "title": "Puente ‘La Cantuta’ une por fin El Tambo y Pilcomayo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/puente-la-cantuta-une-por-fin-el-tambo-y-pilcomayo-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-13"
+    },
+    {
+      "title": "Créditos impagos de Reactiva Perú le cuesta al Estado S/ 6,031 millones",
+      "link": "https://diariocorreo.pe/economia/creditos-impagos-de-reactiva-peru-le-cuesta-al-estado-s-6031-millones-noticia/",
+      "category": "Economía",
+      "date": "2025-12-13"
+    }
+  ]
+}
