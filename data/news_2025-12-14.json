@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2025-12-14",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Huancayo: ‘Loco del volante’ mata a peatón y fuga raudo de la escena",
+      "link": "https://diariocorreo.pe/edicion/huancayo-loco-del-volante-mata-a-peaton-y-fuga-raudo-de-la-escena-noticia/",
+      "category": "Edición",
+      "date": "2025-12-14"
+    },
+    {
+      "title": "El oro y el cobre salvan al Perú de debacle fiscal por el crecimiento de sus precios",
+      "link": "https://diariocorreo.pe/economia/el-oro-y-el-cobre-salvan-al-peru-de-debacle-fiscal-por-el-crecimiento-de-sus-precios-noticia/",
+      "category": "Economía",
+      "date": "2025-12-14"
+    }
+  ]
+}
