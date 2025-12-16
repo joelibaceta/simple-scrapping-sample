@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2025-12-16",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Atalaya: baila con el retrato de su mamá fallecida en fiesta de promoción",
+      "link": "https://diariocorreo.pe/edicion/huancayo/atalaya-baila-con-el-retrato-de-su-mama-fallecida-en-fiesta-de-promocion-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-16"
+    },
+    {
+      "title": "Chanchamayo: motociclista pierde la vida en choque brutal contra un automóvil",
+      "link": "https://diariocorreo.pe/edicion/huancayo/chanchamayo-motociclista-pierde-la-vida-en-choque-brutal-contra-un-automovil-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-16"
+    },
+    {
+      "title": "La economía peruana crece 3.62% en octubre, pero menos que setiembre",
+      "link": "https://diariocorreo.pe/economia/la-economia-peruana-crece-362-en-octubre-pero-menos-que-setiembre-noticia/",
+      "category": "Economía",
+      "date": "2025-12-16"
+    },
+    {
+      "title": "Junín: Solo hay 2 mil vacunas contra influenza y la brecha es de 33 mil ancianos",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-solo-hay-2-mil-vacunas-contra-influenza-y-la-brecha-es-de-33-mil-ancianos-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-16"
+    },
+    {
+      "title": "INEI: Aumenta la desocupación entre los jóvenes de 14 a 24 años",
+      "link": "https://diariocorreo.pe/economia/inei-aumenta-la-desocupacion-entre-los-jovenes-de-14-a-24-anos-noticia/",
+      "category": "Economía",
+      "date": "2025-12-16"
+    }
+  ]
+}
