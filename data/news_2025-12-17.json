@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-12-17",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Poder Judicial admite a trámite pedido de Dina Boluarte para anular su vacancia",
+      "link": "https://diariocorreo.pe/politica/poder-judicial-admite-a-tramite-pedido-de-dina-boluarte-para-anular-su-vacancia-noticia/",
+      "category": "Política",
+      "date": "2025-12-17"
+    },
+    {
+      "title": "Huancayo: A golpes mataron a padre de dos hijas y le robaron dinero",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-a-golpes-mataron-a-padre-de-dos-hijas-y-le-robaron-dinero-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-17"
+    },
+    {
+      "title": "El Ejecutivo busca cumplir con la meta del déficit fiscal al final de este año",
+      "link": "https://diariocorreo.pe/economia/el-ejecutivo-busca-cumplir-con-la-meta-del-deficit-fiscal-al-final-de-este-ano-noticia/",
+      "category": "Economía",
+      "date": "2025-12-17"
+    }
+  ]
+}
