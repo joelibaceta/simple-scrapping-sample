@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2025-12-18",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Congreso aprueba ampliación del Reinfo pero expectora a 50 mil mineros",
+      "link": "https://diariocorreo.pe/politica/congreso-aprueba-ampliacion-del-reinfo-pero-expectora-a-50-mil-mineros-noticia/",
+      "category": "Política",
+      "date": "2025-12-18"
+    },
+    {
+      "title": "Pichanaqui: Les dan 14 años de cárcel por robar con violencia una cartera",
+      "link": "https://diariocorreo.pe/edicion/huancayo/pichanaqui-les-dan-14-anos-de-carcel-por-robar-con-violencia-una-cartera-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-18"
+    }
+  ]
+}
