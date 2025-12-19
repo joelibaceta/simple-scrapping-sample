@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-12-19",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Pichanaqui: Camioneta desciende sin control, mata a dos y deja 12 heridos/Lista de heridos",
+      "link": "https://diariocorreo.pe/edicion/huancayo/pichanaqui-vehiculo-desciende-sin-control-mata-a-dos-y-deja-12-heridos-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-19"
+    },
+    {
+      "title": "Ejecutivo prepublicará reglamento de ZEEP en los próximos días",
+      "link": "https://diariocorreo.pe/economia/ejecutivo-prepublicara-reglamento-de-zeep-en-los-proximos-dias-noticia/",
+      "category": "Economía",
+      "date": "2025-12-19"
+    },
+    {
+      "title": "Huancayo: conductor de combi rapta y abusa de una alumna de 12 años que iba a Sapallanga",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-conductor-de-combi-rapta-y-abusa-de-una-alumna-de-12-anos-que-iba-a-sapallanga-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-19"
+    }
+  ]
+}
