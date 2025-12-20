@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2025-12-20",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Pichanaqui da último adiós a víctimas de accidente múltiple",
+      "link": "https://diariocorreo.pe/edicion/huancayo/pichanaqui-da-ultimo-adios-a-victimas-de-accidente-multiple-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-20"
+    },
+    {
+      "title": "Junín: obrero muere tras caer a un precipicio en Huasicancha",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-obrero-muere-tras-caer-a-un-precipicio-en-huasicancha-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-20"
+    },
+    {
+      "title": "Junín: Un total de 24 crímenes, más de 4 mil robos y 165 por extorsión en la región",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-un-total-de-24-crimenes-mas-de-4-mil-robos-y-165-por-extorsion-en-la-region-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-20"
+    },
+    {
+      "title": "Banco Central de Reserva: La inversión privada crecería 10% al cierre del 2025",
+      "link": "https://diariocorreo.pe/economia/banco-central-de-reserva-la-inversion-privada-creceria-10-al-cierre-del-2025-noticia/",
+      "category": "Economía",
+      "date": "2025-12-20"
+    }
+  ]
+}
