@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-12-23",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Concepción: Este es el nacimiento más grande del Valle del Mantaro",
+      "link": "https://diariocorreo.pe/edicion/huancayo/concepcion-este-es-el-nacimiento-mas-grande-del-valle-del-mantaro-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-23"
+    },
+    {
+      "title": "Petroperú no entrega información financiera que se le pide y MEF anuncia que no recibirá más recursos",
+      "link": "https://diariocorreo.pe/economia/petroperu-no-entrega-informacion-financiera-que-se-le-pide-y-mef-anuncia-que-no-recibira-mas-recursos-noticia/",
+      "category": "Economía",
+      "date": "2025-12-23"
+    },
+    {
+      "title": "Conciertos en Perú 2026: Bad Bunny, My Chemical Romance, Iron Maiden, Kali Uchis, Doja Cat y más...",
+      "link": "https://diariocorreo.pe/espectaculos/conciertos-en-peru-2026-bad-bunny-my-chemical-romance-iron-maiden-kali-uchis-doja-cat-y-mas-noticia/",
+      "category": "Espectáculos",
+      "date": "2025-12-23"
+    }
+  ]
+}
