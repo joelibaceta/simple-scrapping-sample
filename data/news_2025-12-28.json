@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-12-28",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: cámaras captan a ladrones robando una casa y un hostal",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-camaras-captan-a-ladrones-robando-una-casa-y-un-hostal-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-28"
+    },
+    {
+      "title": "“El responsable directo de que Betssy Chávez esté en la embajada de México no es el TC, es el Ministerio Público”",
+      "link": "https://diariocorreo.pe/politica/el-responsable-directo-de-que-betssy-chavez-este-en-la-embajada-de-mexico-no-es-el-tc-es-el-ministerio-publico-noticia/",
+      "category": "Política",
+      "date": "2025-12-28"
+    },
+    {
+      "title": "Ica: Postulantes deberán verificar su puerta de ingreso para el examen de admisión de la UNICA",
+      "link": "https://diariocorreo.pe/edicion/ica/ica-postulantes-deberan-verificar-su-puerta-de-ingreso-para-el-examen-de-admision-de-la-unica-noticia/",
+      "category": "Ica",
+      "date": "2025-12-28"
+    }
+  ]
+}
