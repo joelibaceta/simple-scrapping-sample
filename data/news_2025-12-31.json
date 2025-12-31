@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2025-12-31",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Piñatas de presidente José Jerí y Dina Boluarte muy pedidas para celebrar el 2026",
+      "link": "https://diariocorreo.pe/edicion/huancayo/pinatas-de-presidente-jose-jeri-y-dina-boluarte-muy-pedidas-para-celebrar-el-2026-noticia/",
+      "category": "Huancayo",
+      "date": "2025-12-31"
+    },
+    {
+      "title": "La inversión minera sumaría $ 6,400 millones en el 2026 y registraría un crecimiento de 10%",
+      "link": "https://diariocorreo.pe/economia/la-inversion-minera-sumaria-6400-millones-en-el-2026-y-registraria-un-crecimiento-de-10-noticia/",
+      "category": "Economía",
+      "date": "2025-12-31"
+    },
+    {
+      "title": "Concejo Provincial de Chiclayo aprueba aumento de arbitrios para 2026",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/concejo-provincial-de-chiclayo-aprueba-aumento-de-arbitrios-para-2026-noticia/",
+      "category": "Lambayeque",
+      "date": "2025-12-31"
+    }
+  ]
+}
