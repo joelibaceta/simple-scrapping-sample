@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-01-07",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Petroperú: Productores le piden el pago de deudas vencidas por $ 120 millones",
+      "link": "https://diariocorreo.pe/economia/petroperu-productores-le-piden-el-pago-de-deudas-vencidas-por-120-millones-noticia/",
+      "category": "Economía",
+      "date": "2026-01-07"
+    },
+    {
+      "title": "Chiclayo: cuestionan ferias comerciales autorizadas en zona monumental",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-cuestionan-ferias-comerciales-autorizadas-en-zona-monumental-noticia/",
+      "category": "Lambayeque",
+      "date": "2026-01-07"
+    }
+  ]
+}
