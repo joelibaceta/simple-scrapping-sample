@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-01-08",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Roberto Sánchez: Trabajadores pidieron licencia tras participar en acto proselitista",
+      "link": "https://diariocorreo.pe/politica/roberto-sanchez-trabajadores-pidieron-licencia-tras-participar-en-acto-proselitista-noticia/",
+      "category": "Política",
+      "date": "2026-01-08"
+    },
+    {
+      "title": "“La Charanga Habanera” alista concierto por sus 37 años",
+      "link": "https://diariocorreo.pe/espectaculos/la-charanga-habanera-alista-concierto-por-sus-37-anos-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-01-08"
+    },
+    {
+      "title": "Fabiola Hablützel, escritora y licenciada en Economía: “Es importante que se hable con menos estigma de la adopción” (Entrevista)",
+      "link": "https://diariocorreo.pe/cultura/fabiola-hablutzel-escritora-y-licenciada-en-economia-es-importante-que-se-hable-con-menos-estigma-de-la-adopcion-noticia/",
+      "category": "Cultura",
+      "date": "2026-01-08"
+    },
+    {
+      "title": "Jerí y Kast evaluaron “corredor humanitario”",
+      "link": "https://diariocorreo.pe/politica/jeri-y-kast-evaluaron-corredor-humanitario-noticia/",
+      "category": "Política",
+      "date": "2026-01-08"
+    }
+  ]
+}
