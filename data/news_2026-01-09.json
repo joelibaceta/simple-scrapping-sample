@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-01-09",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Revelan que Alfonso López-Chau estuvo recluido en prisión en su juventud",
+      "link": "https://diariocorreo.pe/politica/revelan-que-alfonso-lopez-chau-estuvo-recluido-en-prision-en-su-juventud-noticia/",
+      "category": "Política",
+      "date": "2026-01-09"
+    },
+    {
+      "title": "Cambian estructura de mando en Petroperú y Proinversión inicia proceso para reestructurar su patrimonio",
+      "link": "https://diariocorreo.pe/economia/cambian-estructura-de-mando-en-petroperu-y-proinversion-inicia-proceso-para-reestructurar-su-patrimonio-noticia/",
+      "category": "Economía",
+      "date": "2026-01-09"
+    }
+  ]
+}
