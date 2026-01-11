@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-01-11",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "LAS ELECCIONES EN LA TELEVISIÓN, columna de Johnny Padilla",
+      "link": "https://diariocorreo.pe/opinion/las-elecciones-en-la-television-columna-de-johnny-padilla-noticia/",
+      "category": "Opinión",
+      "date": "2026-01-11"
+    },
+    {
+      "title": "Vladimir Cerrón no podrá hacer campaña en libertad, según PJ",
+      "link": "https://diariocorreo.pe/politica/vladimir-cerron-no-podra-hacer-campana-en-libertad-segun-pj-noticia/",
+      "category": "Política",
+      "date": "2026-01-11"
+    }
+  ]
+}
