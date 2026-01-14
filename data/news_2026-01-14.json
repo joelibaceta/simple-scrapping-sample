@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-01-14",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "José Jerí: empresario chino fue tres veces a Palacio de Gobierno",
+      "link": "https://diariocorreo.pe/politica/jose-jeri-empresario-chino-fue-tres-veces-a-palacio-de-gobierno-noticia/",
+      "category": "Política",
+      "date": "2026-01-14"
+    },
+    {
+      "title": "Isabel Menéndez, escritora peruana: “El edificio se ha convertido en nuestro barrio” (Entrevista)",
+      "link": "https://diariocorreo.pe/cultura/literatura-infantil-isabel-menendez-escritora-peruana-el-edificio-se-ha-convertido-en-nuestro-barrio-entrevista-ciudad-ninos-cuentos-familia-noticia/",
+      "category": "Cultura",
+      "date": "2026-01-14"
+    },
+    {
+      "title": "Juez se allana a fallo del TC y Caso Cócteles no va más",
+      "link": "https://diariocorreo.pe/politica/juez-se-allana-a-fallo-del-tc-y-caso-cocteles-no-va-mas-keiko-fujimori-noticia/",
+      "category": "Política",
+      "date": "2026-01-14"
+    }
+  ]
+}
