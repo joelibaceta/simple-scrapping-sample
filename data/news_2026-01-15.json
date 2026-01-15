@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-01-15",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Ollanta Humala busca aprovechar anulación de Caso Cócteles y exige su libertad",
+      "link": "https://diariocorreo.pe/politica/ollanta-humala-busca-aprovechar-anulacion-de-caso-cocteles-y-exige-su-libertad-noticia/",
+      "category": "Política",
+      "date": "2026-01-15"
+    },
+    {
+      "title": "El paro fue parcial, pero incomodó",
+      "link": "https://diariocorreo.pe/politica/el-paro-fue-parcial-pero-incomodo-noticia/",
+      "category": "Política",
+      "date": "2026-01-15"
+    },
+    {
+      "title": "Lambayeque: presunta red criminal “Los Pichangueros” suman S/500 mil en asaltos",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-presunta-red-criminal-los-pichangueros-suman-s500-mil-en-asaltos-noticia/",
+      "category": "Lambayeque",
+      "date": "2026-01-15"
+    },
+    {
+      "title": "Paraderos informales toman el centro de Chiclayo y evidencian falta de control",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/paraderos-informales-toman-el-centro-de-chiclayo-y-evidencian-falta-de-control-noticia/",
+      "category": "Lambayeque",
+      "date": "2026-01-15"
+    }
+  ]
+}
