@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-01-16",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Ministra de Economía: Se espera reducir en 40% el gasto en planilla de Petroperú",
+      "link": "https://diariocorreo.pe/economia/ministra-de-economia-se-espera-reducir-en-40-del-gasto-en-planilla-de-petroperu-noticia/",
+      "category": "Economía",
+      "date": "2026-01-16"
+    },
+    {
+      "title": "JNE deja al voto casos de Mario Vizcarra y Rafael López Aliaga",
+      "link": "https://diariocorreo.pe/politica/jne-deja-al-voto-casos-de-mario-vizcarra-y-rafael-lopez-aliaga-noticia/",
+      "category": "Política",
+      "date": "2026-01-16"
+    },
+    {
+      "title": "Penalistas difieren sobre si caso Cócteles beneficia a Ollanta",
+      "link": "https://diariocorreo.pe/politica/penalistas-difieren-sobre-si-caso-cocteles-beneficia-a-ollanta-noticia/",
+      "category": "Política",
+      "date": "2026-01-16"
+    }
+  ]
+}
