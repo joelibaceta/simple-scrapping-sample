@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-01-17",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Director ejecutivo de Proinversión: Se necesita restablecer líneas de créditos para Petroperú",
+      "link": "https://diariocorreo.pe/economia/director-ejecutivo-de-proinversion-se-necesita-restablecer-lineas-de-creditos-para-petroperu-noticia/",
+      "category": "Economía",
+      "date": "2026-01-17"
+    },
+    {
+      "title": "Cien días de José Jerí bajo la luz del semáforo",
+      "link": "https://diariocorreo.pe/politica/cien-dias-de-jose-jeri-bajo-la-luz-del-semaforo-noticia/",
+      "category": "Política",
+      "date": "2026-01-17"
+    },
+    {
+      "title": "Huancayo: dos carros atropellan a músico y fugan",
+      "link": "https://diariocorreo.pe/edicion/huancayo-dos-carros-atropellan-a-musico-y-fugan-noticia/",
+      "category": "Edición",
+      "date": "2026-01-17"
+    },
+    {
+      "title": "Huancavelica: padre e hijo a bordo de camioneta mueren al caer a un barranco",
+      "link": "https://diariocorreo.pe/edicion/huancavelica-padre-e-hijo-a-bordo-de-camioneta-mueren-al-caer-a-un-barranco-noticia/",
+      "category": "Edición",
+      "date": "2026-01-17"
+    },
+    {
+      "title": "Más de 300 oportunidades laborales destacan en la I Maratón del Empleo en Ica",
+      "link": "https://diariocorreo.pe/edicion/ica/mas-de-300-oportunidades-laborales-destacan-en-la-i-maraton-del-empleo-en-ica-noticia/",
+      "category": "Ica",
+      "date": "2026-01-17"
+    },
+    {
+      "title": "El mercado de capitales incrementa su atractivo en el país entre las empresas",
+      "link": "https://diariocorreo.pe/economia/el-mercado-de-capitales-incrementa-su-atractivo-en-el-pais-entre-las-empresas-noticia/",
+      "category": "Economía",
+      "date": "2026-01-17"
+    }
+  ]
+}
