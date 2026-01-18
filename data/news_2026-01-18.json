@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-01-18",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: Evacúan a pacientes de EsSalud por goteras en techos",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-evacuan-a-pacientes-de-essalud-por-goteras-en-techos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-18"
+    },
+    {
+      "title": "Huancayo: ebrio clava cuchillo en el rostro de su pareja",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-ebrio-clava-cuchillo-en-el-rostro-de-su-pareja-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-18"
+    },
+    {
+      "title": "Huancayo: empresaria muere en plena operación de liposucción",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-empresaria-muere-en-plena-operacion-de-liposuccion-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-18"
+    }
+  ]
+}
