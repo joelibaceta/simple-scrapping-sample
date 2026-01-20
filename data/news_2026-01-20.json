@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-01-20",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Amplían estado de emergencia en Trujillo y Virú",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/amplian-estado-de-emergencia-en-trujillo-y-viru-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Ana Vera Palomino, escritora peruana: “En la literatura los niños merecen un respeto enorme”  (Entrevista)",
+      "link": "https://diariocorreo.pe/cultura/literatura-infantil-ana-vera-palomino-escritora-peruana-en-la-literatura-los-ninos-merecen-un-respeto-enorme-entrevista-mascotas-perros-separacion-de-padres-pulgas-familia-amistad-amor-noticia/",
+      "category": "Cultura",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Huancayo: “Sanción para directores que permitan cobros indebidos”",
+      "link": "https://diariocorreo.pe/edicion/huancayo-sancion-para-directores-que-permitan-cobros-indebidos-noticia/",
+      "category": "Edición",
+      "date": "2026-01-20"
+    },
+    {
+      "title": "Preocupa a la SNMPE los nombramientos en cargos claves para la formalización minera",
+      "link": "https://diariocorreo.pe/economia/preocupa-a-la-snmpe-los-nombramientos-en-cargos-claves-para-la-formalizacion-minera-noticia/",
+      "category": "Economía",
+      "date": "2026-01-20"
+    }
+  ]
+}
