@@ -1,0 +1,54 @@
+{
+  "scrape_date": "2026-01-21",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Salen jefe del INPE y minero excluido del Reinfo nombrado director en el Minem",
+      "link": "https://diariocorreo.pe/politica/salen-jefe-del-inpe-y-minero-excluido-del-reinfo-nombrado-director-en-el-minem-noticia/",
+      "category": "Política",
+      "date": "2026-01-21"
+    },
+    {
+      "title": "Huancayo: “Tenderas”, terror de los negocios actúan con impunidad",
+      "link": "https://diariocorreo.pe/edicion/huancayo-tenderas-terror-de-los-negocios-actuan-con-impunidad-noticia/",
+      "category": "Edición",
+      "date": "2026-01-21"
+    },
+    {
+      "title": "Huancayo: buscan a padrastro por abusar de una menor",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-buscan-a-padrastro-por-abusar-de-una-menor-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-21"
+    },
+    {
+      "title": "SNP advierte: Si el Gobierno no se apura, El Niño Costero impactará en el sector pesquero",
+      "link": "https://diariocorreo.pe/economia/snp-advierte-si-el-gobierno-no-se-apura-el-nino-costero-impactara-en-el-sector-pesquero-noticia/",
+      "category": "Economía",
+      "date": "2026-01-21"
+    },
+    {
+      "title": "Defensoría da una semana de plazo para reparar goteras en hospital de EsSalud",
+      "link": "https://diariocorreo.pe/edicion/huancayo/defensoria-da-una-semana-de-plazo-para-reparar-goteras-en-hospital-de-essalud-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-21"
+    },
+    {
+      "title": "Saskia Bernaola, actriz: “Estoy satisfecha con la primera película que he dirigido” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/saskia-bernaola-actriz-estoy-satisfecha-con-la-primera-pelicula-que-he-dirigido-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-01-21"
+    },
+    {
+      "title": "Chiclayo: hallan muerta a joven que se ahogó en el río Zaña",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-hallan-muerta-a-joven-que-se-ahogo-en-el-rio-zana-noticia/",
+      "category": "Lambayeque",
+      "date": "2026-01-21"
+    },
+    {
+      "title": "Chiclayo: policía herido tras ser atacado por delincuentes",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-policia-herido-tras-ser-atacado-por-delincuentes-noticia/",
+      "category": "Lambayeque",
+      "date": "2026-01-21"
+    }
+  ]
+}
