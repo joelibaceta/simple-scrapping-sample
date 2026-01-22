@@ -1,0 +1,54 @@
+{
+  "scrape_date": "2026-01-22",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Fiscalía investiga a congresista Kira Alcarraz por agresión a trabajador del SAT",
+      "link": "https://diariocorreo.pe/politica/fiscalia-investiga-a-congresista-kira-alcarraz-por-agresion-a-trabajador-del-sat-noticia/",
+      "category": "Política",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "‘Twitteros’ caen por grabarse y vender pornografía infantil desde Huancayo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/twitteros-caen-por-grabarse-y-vender-pornografia-infantil-desde-huancayo-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "Huancayo: a balazos atrapan a dos que hurtaban accesorios en fiestas",
+      "link": "https://diariocorreo.pe/edicion/huancayo-a-balazos-atrapan-a-dos-que-hurtaban-accesorios-en-fiestas-noticia/",
+      "category": "Edición",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "La Fiscalía alista acusaciones en el Caso Qali Warma",
+      "link": "https://diariocorreo.pe/politica/la-fiscalia-alista-acusaciones-en-el-caso-qali-warma-noticia/",
+      "category": "Política",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "Lambayeque: ómnibus arrolla a motociclista en el distrito de Olmos",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-omnibus-arrolla-a-motociclista-en-el-distrito-de-olmos-noticia/",
+      "category": "Lambayeque",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "Chiclayo: chatarrerías bajo la lupa por presunta compra de vehículos robados",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/chiclayo-chatarrerias-bajo-la-lupa-por-compra-de-vehiculos-robados-noticia/",
+      "category": "Lambayeque",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "Presidente del BCR: Crecimiento de la economía no ha sido tan malo pese a inestabilidad política",
+      "link": "https://diariocorreo.pe/economia/presidente-del-bcr-crecimiento-de-la-economia-no-ha-sido-tan-malo-pese-a-inestabilidad-politica-noticia/",
+      "category": "Economía",
+      "date": "2026-01-22"
+    },
+    {
+      "title": "Lambayeque: revelan compra sobrevalorada de instrumentos",
+      "link": "https://diariocorreo.pe/edicion/lambayeque/lambayeque-revelan-compra-sobrevalorada-de-instrumentos-noticia/",
+      "category": "Lambayeque",
+      "date": "2026-01-22"
+    }
+  ]
+}
