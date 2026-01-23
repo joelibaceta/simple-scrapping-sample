@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-01-23",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "José Jerí: Juristas aseguran que se requiere una vacancia para su destitución",
+      "link": "https://diariocorreo.pe/politica/jose-jeri-juristas-aseguran-que-se-requiere-una-vacancia-para-su-destitucion-noticia/",
+      "category": "Política",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "Por foto cae ‘pepera’ que robó 4 celulares en la tunantada de Jauja",
+      "link": "https://diariocorreo.pe/edicion/huancayo/por-foto-cae-pepera-que-robo-4-celulares-en-la-tunantada-de-jauja-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "Chupaca: enfermero va preso por tocar a menores en una combi",
+      "link": "https://diariocorreo.pe/edicion/huancayo/chupaca-enfermero-va-preso-por-tocar-a-menores-en-una-combi-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "“Las normas parecen estar hechas a medida de las empresas chinas”",
+      "link": "https://diariocorreo.pe/politica/las-normas-parecen-estar-hechas-a-medida-de-las-empresas-chinas-noticia/",
+      "category": "Política",
+      "date": "2026-01-23"
+    },
+    {
+      "title": "José Jerí no agendó informe del Congreso contra Zhihua Yang",
+      "link": "https://diariocorreo.pe/politica/jose-jeri-no-agendo-informe-del-congreso-contra-zhihua-yang-noticia/",
+      "category": "Política",
+      "date": "2026-01-23"
+    }
+  ]
+}
