@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-01-24",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Huancayo: policías sorprenden a 293 conductores manejando ebrios",
+      "link": "https://diariocorreo.pe/edicion/huancayo-policias-sorprenden-a-293-conductores-manejando-ebrios-noticia/",
+      "category": "Edición",
+      "date": "2026-01-24"
+    },
+    {
+      "title": "Cinco mil agricultores del Tulumayo están aislados y no pueden sacar sus cosechas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/cinco-mil-agricultores-del-tulumayo-estan-aislados-y-no-pueden-sacar-sus-cosechas-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-24"
+    },
+    {
+      "title": "Niña de 07 años cae de puente y desaparece en las aguas del río en Pasco",
+      "link": "https://diariocorreo.pe/edicion/huancayo/nina-de-07-anos-cae-de-puente-y-desaparece-en-las-aguas-del-rio-en-pasco-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-24"
+    },
+    {
+      "title": "Las remesas que salieron del Perú se duplicaron y sumaron $ 167 millones",
+      "link": "https://diariocorreo.pe/economia/las-remesas-que-salieron-del-peru-se-duplicaron-y-sumaron-167-millones-noticia/",
+      "category": "Economía",
+      "date": "2026-01-24"
+    }
+  ]
+}
