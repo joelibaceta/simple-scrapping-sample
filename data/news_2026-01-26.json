@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-01-26",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Elecciones 2026: Candidatos de Somos Perú con sentencias, deudas y procesos por corrupción",
+      "link": "https://diariocorreo.pe/politica/elecciones-2026-candidatos-de-somos-peru-con-sentencias-deudas-y-procesos-por-corrupcion-noticia/",
+      "category": "Política",
+      "date": "2026-01-26"
+    },
+    {
+      "title": "Escándalo en Fovipol: Pagaron millones por viviendas inhabitables para policías",
+      "link": "https://diariocorreo.pe/edicion/lima/escandalo-en-fovipol-pagaron-millones-por-viviendas-inhabitables-para-policias-noticia/",
+      "category": "Lima",
+      "date": "2026-01-26"
+    }
+  ]
+}
