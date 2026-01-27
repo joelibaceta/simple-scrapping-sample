@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-01-27",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "El dólar sigue en caída, mientras el oro alcanza un precio récord de $ 5.1 la onza",
+      "link": "https://diariocorreo.pe/economia/el-dolar-sigue-en-caida-mientras-el-oro-alcanza-un-precio-record-de-51-la-onza-noticia/",
+      "category": "Economía",
+      "date": "2026-01-27"
+    },
+    {
+      "title": "Por acta falsa PNP interviene centro de conciliación ligado al gerente de Promoción Económica de Huancayo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/por-acta-falsa-pnp-interviene-centro-de-conciliacion-ligado-al-gerente-de-promocion-economica-de-huancayo-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-27"
+    }
+  ]
+}
