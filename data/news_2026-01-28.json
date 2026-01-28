@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-01-28",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Luis Carranza: “Hay que poner tope al crecimiento del gasto corriente ”",
+      "link": "https://diariocorreo.pe/economia/luis-carranza-hay-que-poner-tope-al-crecimiento-del-gasto-corriente-noticia/",
+      "category": "Economía",
+      "date": "2026-01-28"
+    },
+    {
+      "title": "Roque Benavides: Preocupa que se agoten las reservas del gas de Camisea",
+      "link": "https://diariocorreo.pe/economia/roque-benavides-preocupa-que-se-agoten-las-reservas-de-gas-de-camisea-noticia/",
+      "category": "Economía",
+      "date": "2026-01-28"
+    },
+    {
+      "title": "Empresarios en alerta por El Niño Costero buscan tomar medidas para disminuir riesgos",
+      "link": "https://diariocorreo.pe/economia/empresarios-en-alerta-por-el-nino-costero-buscan-tomar-medidas-para-disminuir-riesgos-noticia/",
+      "category": "Economía",
+      "date": "2026-01-28"
+    }
+  ]
+}
