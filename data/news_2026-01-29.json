@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-01-29",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Gianella Neyra pone voz a personaje en cinta animada de Sony Pictures",
+      "link": "https://diariocorreo.pe/espectaculos/gianella-neyra-pone-voz-a-personaje-en-cinta-animada-de-sony-pictures-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-01-29"
+    },
+    {
+      "title": "Giacomo Bocchio, chef: “Me enorgullece ser un cocinero que transmite conocimiento” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/giacomo-bocchio-chef-me-enorgullece-ser-un-cocinero-que-transmite-conocimiento-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-01-29"
+    },
+    {
+      "title": "Registran brote del virus Coxsakie en el distrito de Yauyos - Jauja",
+      "link": "https://diariocorreo.pe/edicion/huancayo/registran-brote-del-virus-coxsakie-en-el-distrito-de-yauyos-jauja-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-29"
+    },
+    {
+      "title": "Presidente de Confiep: “Cualquiera puede llegar al gobierno con el financiamiento de la minería ilegal”",
+      "link": "https://diariocorreo.pe/economia/presidente-de-confiep-cualquiera-puede-llega-al-gobierno-con-el-financiamiento-de-la-mineria-ilegal-noticia/",
+      "category": "Economía",
+      "date": "2026-01-29"
+    },
+    {
+      "title": "JNJ denuncia a miembros del CAL por “avocarse” a caso en el PJ",
+      "link": "https://diariocorreo.pe/politica/jnj-denuncia-a-miembros-del-cal-por-avocarse-a-caso-en-el-pj-noticia/",
+      "category": "Política",
+      "date": "2026-01-29"
+    },
+    {
+      "title": "Chanchamayo: Advierten peligroso incremento del caudal del río Tulumayo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/chanchamayo-advierten-peligroso-incremento-del-caudal-del-rio-tulumayo-noticia/",
+      "category": "Huancayo",
+      "date": "2026-01-29"
+    }
+  ]
+}
