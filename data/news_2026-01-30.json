@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-01-30",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Defensor del Pueblo Josué Gutiérrez se opone a reestructuración de Petroperú",
+      "link": "https://diariocorreo.pe/politica/defensor-del-pueblo-josue-gutierrez-se-opone-a-reestructuracion-de-petroperu-noticia/",
+      "category": "Política",
+      "date": "2026-01-30"
+    },
+    {
+      "title": "Aproximadamente unos 5 millones de peruanos no cubren una canasta básica",
+      "link": "https://diariocorreo.pe/economia/aproximadamente-unos-5-millones-de-peruanos-no-cubren-una-canasta-basica-noticia/",
+      "category": "Economía",
+      "date": "2026-01-30"
+    },
+    {
+      "title": "Los planes obsoletos de cuatro partidos de izquierda",
+      "link": "https://diariocorreo.pe/politica/los-planes-obsoletos-de-cuatro-partidos-de-izquierda-noticia/",
+      "category": "Política",
+      "date": "2026-01-30"
+    },
+    {
+      "title": "SBS: El número de adultos que tiene una cuenta o billetera móvil crece en la región Junín",
+      "link": "https://diariocorreo.pe/economia/sbs-el-numero-de-adultos-que-tiene-una-cuenta-o-billetera-movil-crece-en-la-region-junin-noticia/",
+      "category": "Economía",
+      "date": "2026-01-30"
+    }
+  ]
+}
