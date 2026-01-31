@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-01-31",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Continúa la búsqueda de joven de Nasca desaparecido hace tres días en el mar de Lomas",
+      "link": "https://diariocorreo.pe/edicion/ica/continua-la-busqueda-de-joven-de-nasca-desaparecido-hace-tres-dias-en-el-mar-de-lomas-noticia/",
+      "category": "Ica",
+      "date": "2026-01-31"
+    },
+    {
+      "title": "Fiscal de la Nación interrogó a Jerí, pero tiene límites",
+      "link": "https://diariocorreo.pe/politica/fiscal-de-la-nacion-interrogo-a-jeri-pero-tiene-limites-noticia/",
+      "category": "Política",
+      "date": "2026-01-31"
+    }
+  ]
+}
