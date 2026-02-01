@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-02-01",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Yauyos-Jauja: sin los músicos no habría tunantada",
+      "link": "https://diariocorreo.pe/edicion/huancayo/yauyos-jauja-sin-los-musicos-no-habria-tunantada-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-01"
+    },
+    {
+      "title": "Josué Gutiérrez y su extensa cadena de desatinos",
+      "link": "https://diariocorreo.pe/politica/josue-gutierrez-y-su-extensa-cadena-de-desatinos-noticia/",
+      "category": "Política",
+      "date": "2026-02-01"
+    }
+  ]
+}
