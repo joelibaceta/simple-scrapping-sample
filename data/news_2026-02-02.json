@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-02-02",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Mateo Garrido Lecca, comediante y actor: “Siempre pensé que la televisión no era para mí” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/mateo-garrido-lecca-comediante-y-actor-siempre-pense-que-la-television-no-era-para-mi-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-02-02"
+    },
+    {
+      "title": "Hoy se realizará reunión clave por la Nueva Carretera Central",
+      "link": "https://diariocorreo.pe/edicion/huancayo/hoy-se-realizara-reunion-clave-por-la-nueva-carretera-central-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-02"
+    },
+    {
+      "title": "BTS en Perú: Captan a jovencitas por redes sociales a cambio de ayuda económica para entradas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/bts-en-peru-con-el-cuento-de-las-entradas-captan-a-jovencitas-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-02"
+    }
+  ]
+}
