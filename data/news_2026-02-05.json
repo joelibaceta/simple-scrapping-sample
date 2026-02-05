@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-02-05",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Miguel del Castillo “direccionó” más de S/400 mil a su canal Nativa TV",
+      "link": "https://diariocorreo.pe/videos/miguel-del-castillo-direcciono-mas-de-s400-mil-a-su-canal-nativa-tv-noticia/",
+      "category": "Videos",
+      "date": "2026-02-05"
+    },
+    {
+      "title": "Con publicación de Decreto de Urgencia: Petroperú deja de lado las medidas de la anterior gestión",
+      "link": "https://diariocorreo.pe/economia/con-publicacion-de-decreto-de-urgencia-petroperu-deja-de-lado-las-medidas-de-la-anterior-gestion-noticia/",
+      "category": "Economía",
+      "date": "2026-02-05"
+    },
+    {
+      "title": "César Galindo, director de ‘Killapa Wawan’: “La multiculturalidad es una riqueza de la que deberíamos estar orgullosos”",
+      "link": "https://diariocorreo.pe/cultura/cesar-galindo-director-de-killapa-wawan-la-multiculturalidad-es-una-riqueza-de-la-que-deberiamos-estar-orgullosos-noticia/",
+      "category": "Cultura",
+      "date": "2026-02-05"
+    }
+  ]
+}
