@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-02-06",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Canal Nativa TV se usó en franja de seis partidos",
+      "link": "https://diariocorreo.pe/politica/canal-nativa-tv-se-uso-en-franja-de-seis-partidos-noticia/",
+      "category": "Política",
+      "date": "2026-02-06"
+    },
+    {
+      "title": "Proyectos de la Nueva Carretera Central y de la Vía Expresa Santa Rosa en entredicho contractual",
+      "link": "https://diariocorreo.pe/economia/proyectos-de-la-nueva-carretera-central-y-de-la-via-expresa-santa-rosa-en-entredicho-contractual-noticia/",
+      "category": "Economía",
+      "date": "2026-02-06"
+    }
+  ]
+}
