@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-02-07",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Huancayo: extraños envenenan y matan a 30 perros acogidos en albergue",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-extranos-envenenan-y-matan-a-30-perros-acogidos-en-albergue-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-07"
+    },
+    {
+      "title": "Corrigen condena de Vladimiro Montesinos y no saldrá hasta 2037",
+      "link": "https://diariocorreo.pe/politica/corrigen-condena-de-vladimiro-montesinos-y-no-saldra-hasta-2037-noticia/",
+      "category": "Política",
+      "date": "2026-02-07"
+    },
+    {
+      "title": "Sectores “anti” definirán elecciones del 2026",
+      "link": "https://diariocorreo.pe/politica/sectores-anti-definiran-elecciones-del-2026-noticia/",
+      "category": "Política",
+      "date": "2026-02-07"
+    },
+    {
+      "title": "Ministerio de Transportes y Comunicaciones  excluye a PMO Vías de la Nueva Carretera Central",
+      "link": "https://diariocorreo.pe/economia/ministerio-de-transportes-y-comunicaciones-excluye-a-pmo-vias-de-la-nueva-carretera-central-noticia/",
+      "category": "Economía",
+      "date": "2026-02-07"
+    }
+  ]
+}
