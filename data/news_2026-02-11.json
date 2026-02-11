@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-02-11",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Pablo Guyot, músico y productor: “La relación entre los miembros de una banda es como un matrimonio” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/pablo-guyot-musico-y-productor-la-relacion-entre-los-miembros-de-una-banda-es-como-un-matrimonio-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "Misael Casachagua señala que la fortaleza del partido son las carreteras",
+      "link": "https://diariocorreo.pe/edicion/huancayo/misael-casachagua-senala-que-la-fortaleza-del-partido-son-las-carreteras-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "Los Waykis en la Sombra: JNJ investiga a juez Richard Concepción Carhuancho",
+      "link": "https://diariocorreo.pe/politica/los-waykis-en-la-sombra-jnj-investiga-a-juez-richard-concepcion-carhuancho-noticia/",
+      "category": "Política",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "Puerto de Chancay tiene impacto positivo en la industria avícola porque reduce costos",
+      "link": "https://diariocorreo.pe/economia/puerto-de-chancay-tiene-impacto-positivo-en-la-industria-avicola-porque-reduce-costos-noticia/",
+      "category": "Economía",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "Quispealaya propone que el Estado escuche al campesino",
+      "link": "https://diariocorreo.pe/edicion/huancayo/quispealaya-propone-que-el-estado-escuche-al-campesino-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-11"
+    }
+  ]
+}
