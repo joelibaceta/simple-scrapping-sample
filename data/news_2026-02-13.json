@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-02-13",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Presidente Jerí presentará recién hoy el Plan Nacional de Seguridad Ciudadana",
+      "link": "https://diariocorreo.pe/politica/presidente-jeri-presentara-recien-hoy-el-plan-nacional-de-seguridad-ciudadana-noticia/",
+      "category": "Política",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "Puerto de Chancay: China acusa a los Estados Unidos por difamación",
+      "link": "https://diariocorreo.pe/economia/puerto-de-chancay-china-acusa-a-los-estados-unidos-por-difamacion-noticia/",
+      "category": "Economía",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "Petroperú tendría pronto una inyección de capital fresco de la banca privada internacional",
+      "link": "https://diariocorreo.pe/economia/petroperu-tendria-pronto-una-inyeccion-de-capital-fresco-de-la-banca-privada-internacional-noticia/",
+      "category": "Economía",
+      "date": "2026-02-13"
+    }
+  ]
+}
