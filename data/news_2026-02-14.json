@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-02-14",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo, docente pervertido tocaba a alumna en el aula",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-docente-pervertido-tocaba-a-alumna-en-el-aula-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "Elecciones 2026: 6 millones de indecisos serán claves",
+      "link": "https://diariocorreo.pe/politica/elecciones-2026-6-millones-de-indecisos-seran-claves-noticia/",
+      "category": "Política",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "BCR estima que economía creció 3.2% en enero con el aporte del sector construcción",
+      "link": "https://diariocorreo.pe/economia/bcr-estima-que-economia-crecio-32-en-enero-con-el-aporte-del-sector-construccion-noticia/",
+      "category": "Economía",
+      "date": "2026-02-14"
+    }
+  ]
+}
