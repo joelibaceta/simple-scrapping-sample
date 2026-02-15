@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-02-15",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Jauja: la revolución agraria está en la siembra y cosecha de agua",
+      "link": "https://diariocorreo.pe/edicion/huancayo/jauja-la-revolucion-agraria-esta-en-la-siembra-y-cosecha-de-agua-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "Confirman 35 años de prisión a implicado en asesinato de suboficial Luis Soncco",
+      "link": "https://diariocorreo.pe/politica/confirman-35-anos-de-prision-a-implicado-en-asesinato-de-suboficial-luis-soncco-noticia/",
+      "category": "Política",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "Huancayo: Detienen a policía por recibir 100 soles de infractor vial",
+      "link": "https://diariocorreo.pe/edicion/huancayo-detienen-a-policia-por-recibir-100-soles-de-infractor-vial-noticia/",
+      "category": "Edición",
+      "date": "2026-02-15"
+    }
+  ]
+}
