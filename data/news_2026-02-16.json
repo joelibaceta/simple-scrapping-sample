@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-02-16",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "La “Capital Regional del Carnaval“ desde hoy le muestra al Perú su mejor tradición",
+      "link": "https://diariocorreo.pe/cultura/la-capital-regional-del-carnaval-desde-hoy-le-muestra-al-peru-su-mejor-tradicion-noticia/",
+      "category": "Cultura",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "Liga 1: Una esperanza para el equipo albo para jugar sus partidos de local",
+      "link": "https://diariocorreo.pe/deportes/liga-1-una-esperanza-para-el-equipo-albo-para-jugar-sus-partidos-de-local-noticia/",
+      "category": "Deportes",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "Arequipa: Alcalde de Caravelí participó en actividad proselitista del candidato Jaime Quito (VIDEO)",
+      "link": "https://diariocorreo.pe/edicion/arequipa/arequipa-alcalde-de-caraveli-participo-en-actividad-proselitista-del-candidato-jaime-quito-video-noticia/",
+      "category": "Arequipa",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "Una fiesta llena de pintura y carnaval en Monte Castillo",
+      "link": "https://diariocorreo.pe/cultura/una-fiesta-llena-de-pintura-y-carnaval-en-monte-castillo-noticia/",
+      "category": "Cultura",
+      "date": "2026-02-16"
+    }
+  ]
+}
