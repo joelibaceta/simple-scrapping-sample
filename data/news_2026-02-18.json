@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-02-18",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "El precio del dólar retrocede al nivel que registró hace casi ocho años",
+      "link": "https://diariocorreo.pe/economia/el-precio-del-dolar-retrocede-al-nivel-que-registro-hace-casi-ocho-anos-noticia/",
+      "category": "Economía",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "Lo que deja Jerí: pocos aciertos e investigaciones",
+      "link": "https://diariocorreo.pe/politica/lo-que-deja-jeri-pocos-aciertos-e-investigaciones-noticia/",
+      "category": "Política",
+      "date": "2026-02-18"
+    }
+  ]
+}
