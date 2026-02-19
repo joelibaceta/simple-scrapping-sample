@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-02-19",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "José Jerí ya no tiene la protección legal de un presidente",
+      "link": "https://diariocorreo.pe/politica/jose-jeri-ya-no-tiene-la-proteccion-legal-de-un-presidente-noticia/",
+      "category": "Política",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "Multitudinaria marcha en Junín y quema de ataúdes por la Nueva Carretera Central",
+      "link": "https://diariocorreo.pe/edicion/huancayo/multitudinaria-marcha-en-junin-y-quema-de-ataudes-por-la-nueva-carretera-central-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "“Habrá elecciones transparentes”, asegura presidente José María Balcázar",
+      "link": "https://diariocorreo.pe/politica/jose-maria-balcazar-jurar-nuevo-presidente-habra-elecciones-transparentes-asegura-presidente-jose-maria-balcazar-inseguridad-noticia/",
+      "category": "Política",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "Gremios empresariales: Algunos ministros deberían mantenerse en sus cargos",
+      "link": "https://diariocorreo.pe/economia/gremios-empresariales-algunos-ministros-deberian-mantenerse-en-sus-cargos-noticia/",
+      "category": "Economía",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "Presidente José Balcázar ya está en Palacio de Gobierno: Fue recibido con honores (FOTOS)",
+      "link": "https://diariocorreo.pe/politica/presidente-jose-balcazar-ya-esta-en-palacio-de-gobierno-fue-recibido-con-honores-fotos-noticia/",
+      "category": "Política",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "Vladimir Cerrón pide a presidente José Balcázar “dar de baja” a jefe de la PNP, Óscar Arriola",
+      "link": "https://diariocorreo.pe/politica/vladimir-cerron-pide-a-presidente-jose-balcazar-dar-de-baja-a-jefe-de-la-pnp-oscar-arriola-noticia/",
+      "category": "Política",
+      "date": "2026-02-19"
+    }
+  ]
+}
