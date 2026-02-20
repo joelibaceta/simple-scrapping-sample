@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-02-20",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Hoy reparten más de 11 mil vasos de emoliente gratis en Huancayo y El Tambo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/hoy-reparten-mas-de-11-mil-vasos-de-emoliente-gratis-en-huancayo-y-el-tambo-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "Pedro Castillo presiona a Balcázar por indulto",
+      "link": "https://diariocorreo.pe/politica/pedro-castillo-presiona-a-balcazar-por-indulto-noticia/",
+      "category": "Política",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "Balcázar asegura que Perú mantendrá su línea macroeconómica y descartó cambios que generen incertidumbre",
+      "link": "https://diariocorreo.pe/economia/balcazar-asegura-que-peru-mantendra-su-linea-macroeconomica-y-descarto-cambios-que-generen-incertidumbre-noticia/",
+      "category": "Economía",
+      "date": "2026-02-20"
+    }
+  ]
+}
