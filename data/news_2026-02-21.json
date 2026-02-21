@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-02-21",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Policía huancaíno muere en labor de rescate y se convierte en un héroe",
+      "link": "https://diariocorreo.pe/edicion/huancayo/policia-huancaino-muere-en-labor-de-rescate-y-se-convierte-en-un-heroe-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "Petroperú pone a Gustavo Villa Mora como gerente general tras remover a Rita López",
+      "link": "https://diariocorreo.pe/economia/petroperu-pone-a-gustavo-villa-mora-como-gerente-general-tras-remover-a-rita-lopez-noticia/",
+      "category": "Economía",
+      "date": "2026-02-21"
+    }
+  ]
+}
