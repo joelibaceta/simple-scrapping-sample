@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-02-22",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Restos de policía héroe serán llevados a su natal Pucará",
+      "link": "https://diariocorreo.pe/edicion/restos-de-policia-heroe-seran-llevados-a-su-natal-pucara-noticia/",
+      "category": "Edición",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "“No creo que un personaje de izquierda realmente pueda garantizar la imparcialidad en elecciones”",
+      "link": "https://diariocorreo.pe/politica/no-creo-que-un-personaje-de-izquierda-realmente-pueda-garantizar-la-imparcialidad-en-elecciones-noticia/",
+      "category": "Política",
+      "date": "2026-02-22"
+    }
+  ]
+}
