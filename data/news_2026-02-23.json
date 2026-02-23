@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-02-23",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Liga 1: Los Chankas remontan a Sport Huancayo y le ganan 3-2 en Andahuaylas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/liga-1-los-chankas-remontan-a-sport-huancayo-y-le-ganan-3-2-en-andahuaylas-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "Emergencia en Cayma: Colapsan tuberías en Embajada de Japón y vecinos se quedan sin agua (VIDEO)",
+      "link": "https://diariocorreo.pe/edicion/arequipa/emergencia-en-cayma-colapsan-tuberias-en-embajada-de-japon-y-vecinos-se-quedan-sin-agua-video-noticia/",
+      "category": "Arequipa",
+      "date": "2026-02-23"
+    }
+  ]
+}
