@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-02-25",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Julio Corcuera Portugal, abogado e investigador: “La seguridad no es solo un tema policial” (Entrevista)",
+      "link": "https://diariocorreo.pe/cultura/investigacion-julio-corcuera-portugal-abogado-e-investigador-la-seguridad-no-es-solo-un-tema-policial-entrevista-exporsion-miedo-lima-peru-estado-politica-noticia/",
+      "category": "Cultura",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "Formación para escolares en la robótica puede ser desde los tres años",
+      "link": "https://diariocorreo.pe/edicion/huancayo/formacion-para-escolares-en-la-robotica-puede-ser-desde-los-tres-anos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "Declaran en emergencia el suministro de gas natural en Arequipa, Moquegua y Tacna",
+      "link": "https://diariocorreo.pe/economia/declaran-en-emergencia-el-suministro-de-gas-natural-en-arequipa-moquegua-y-tacna-noticia/",
+      "category": "Economía",
+      "date": "2026-02-25"
+    }
+  ]
+}
