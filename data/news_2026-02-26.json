@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-02-26",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Hernando de Soto apunta contra Acuña y Cerrón",
+      "link": "https://diariocorreo.pe/politica/hernando-de-soto-apunta-contra-acuna-y-cerron-noticia/",
+      "category": "Política",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "Ministros acumulan diez investigaciones",
+      "link": "https://diariocorreo.pe/politica/ministros-de-jose-balcazar-acumulan-diez-investigaciones-noticia/",
+      "category": "Política",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "SBS aplicará sistema que acentuará  competencia entre entidades financieras para bajar las tasas de interés",
+      "link": "https://diariocorreo.pe/economia/sbs-aplicara-sistema-que-acentuara-competencia-entre-entidades-financieras-para-bajar-las-tasas-de-interes-noticia/",
+      "category": "Economía",
+      "date": "2026-02-26"
+    }
+  ]
+}
