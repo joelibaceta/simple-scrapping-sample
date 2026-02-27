@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-02-27",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Formación para escolares en la robótica puede ser desde los tres años",
+      "link": "https://diariocorreo.pe/edicion/huancayo/formacion-para-escolares-en-la-robotica-puede-ser-desde-los-tres-anos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "Cámara Peruana de la Construcción: La mala asignación de recursos provoca la paralización de obras",
+      "link": "https://diariocorreo.pe/economia/camara-peruana-de-la-construccion-la-mala-asignacion-de-recursos-provoca-la-paralizacion-de-obras-noticia/",
+      "category": "Economía",
+      "date": "2026-02-27"
+    }
+  ]
+}
