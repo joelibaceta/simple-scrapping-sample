@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-03-01",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Vinculan a asesor de AMLO con López-Chau",
+      "link": "https://diariocorreo.pe/politica/vinculan-a-asesor-de-amlo-con-lopez-chau-noticia/",
+      "category": "Política",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Junín: Altos índices de anemia en niños más pobres",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-altos-indices-de-anemia-en-ninos-mas-pobres-noticia/",
+      "category": "Huancayo",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Destinan 17 millones de soles para mantenimiento de más de 3 mil colegios",
+      "link": "https://diariocorreo.pe/edicion/huancayo/destinan-17-millones-de-soles-para-mantenimiento-de-mas-de-mil-colegios-noticia/",
+      "category": "Huancayo",
+      "date": "2026-03-01"
+    }
+  ]
+}
