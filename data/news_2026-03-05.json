@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-03-05",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Empresas usarán energías alternas",
+      "link": "https://diariocorreo.pe/politica/empresas-usaran-energias-alternas-noticia/",
+      "category": "Política",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "Fiscalía investiga a TGP por deflagración en Cusco",
+      "link": "https://diariocorreo.pe/politica/fiscalia-investiga-a-tgp-por-deflagracion-en-cusco-noticia/",
+      "category": "Política",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "El dólar retrocedió ayer tras gran salto de 560 puntos básicos del martes",
+      "link": "https://diariocorreo.pe/economia/el-dolar-retrocedio-ayer-tras-gran-salto-de-560-puntos-basicos-del-martes-noticia/",
+      "category": "Economía",
+      "date": "2026-03-05"
+    }
+  ]
+}
