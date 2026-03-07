@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-03-07",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: Hormigas al interior de la UCI pediátrica del hospital El Carmen",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-hormigas-al-interior-de-la-uci-pediatrica-del-hospital-el-carmen-noticia/",
+      "category": "Huancayo",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Presidente Balcázar libra por ahora juicio oral por difamación",
+      "link": "https://diariocorreo.pe/politica/presidente-balcazar-libra-por-ahora-juicio-oral-por-difamacion-noticia/",
+      "category": "Política",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Dólar da gran salto y se acerca a los S/ 3.50, mientras el petróleo superó los $ 90 el barril",
+      "link": "https://diariocorreo.pe/economia/dolar-da-gran-salto-y-se-acerca-a-los-s-350-mientras-el-petroleo-supero-los-90-el-barril-noticia/",
+      "category": "Economía",
+      "date": "2026-03-07"
+    }
+  ]
+}
