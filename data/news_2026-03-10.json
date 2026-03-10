@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-03-10",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Gobierno anuncia cambios en Perupetro para reactivar la inversión en el sector hidrocarburos",
+      "link": "https://diariocorreo.pe/economia/gobierno-anuncia-cambios-en-perupetro-para-reactivar-la-inversion-en-el-sector-hidrocarburos-noticia/",
+      "category": "Economía",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "La fidelización de talentos especializado en minería es uno de los grandes retos de las empresas del sector",
+      "link": "https://diariocorreo.pe/economia/la-fidelizacion-de-talentos-especializado-en-mineria-es-uno-de-los-grandes-retos-de-las-empresas-del-sector-noticia/",
+      "category": "Economía",
+      "date": "2026-03-10"
+    }
+  ]
+}
