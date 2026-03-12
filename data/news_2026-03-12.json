@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-03-12",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Conoce Conaica: “el pueblo de los candados” ubicado en Huancavelica",
+      "link": "https://diariocorreo.pe/edicion/huancayo/conaica-el-pueblo-de-los-candados-noticia/",
+      "category": "Huancayo",
+      "date": "2026-03-12"
+    },
+    {
+      "title": "La reparación de los ducto que traen el gas natural de Camisea con avance de 64%",
+      "link": "https://diariocorreo.pe/economia/la-reparacion-de-los-ducto-que-traen-el-gas-natural-de-camisea-con-avance-de-64-noticia/",
+      "category": "Economía",
+      "date": "2026-03-12"
+    },
+    {
+      "title": "La informalidad afectó a casi el 75% de jóvenes de Lima Metropolitana durante el 2025",
+      "link": "https://diariocorreo.pe/economia/la-informalidad-afecto-a-casi-el-75-de-jovenes-de-lima-metropolitana-durante-el-2025-noticia/",
+      "category": "Economía",
+      "date": "2026-03-12"
+    },
+    {
+      "title": "Crece la demanda de robots entre las empresas y universidades del Perú",
+      "link": "https://diariocorreo.pe/economia/crece-la-demanda-de-robots-entre-las-empresas-y-universidades-del-peru-noticia/",
+      "category": "Economía",
+      "date": "2026-03-12"
+    }
+  ]
+}
