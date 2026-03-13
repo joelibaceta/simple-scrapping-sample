@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-03-13",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "El lado “B” del TC: Sus seis fallos polémicos",
+      "link": "https://diariocorreo.pe/politica/el-lado-b-del-tc-sus-seis-fallos-polemicos-noticia/",
+      "category": "Política",
+      "date": "2026-03-13"
+    },
+    {
+      "title": "Congreso aprobó CTS y gratificaciones para trabajadores del régimen CAS",
+      "link": "https://diariocorreo.pe/economia/congreso-aprobo-cts-y-gratificaciones-para-trabajadores-del-regimen-cas-noticia/",
+      "category": "Economía",
+      "date": "2026-03-13"
+    }
+  ]
+}
