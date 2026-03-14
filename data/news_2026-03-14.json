@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-03-14",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Junín: universitario va a pescar con amigos y desaparece en el río",
+      "link": "https://diariocorreo.pe/edicion/junin-universitario-va-a-pescar-con-amigos-y-desaparece-en-el-rio-noticia/",
+      "category": "Edición",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "Huancayo: obrero va preso por balear a dos menores",
+      "link": "https://diariocorreo.pe/edicion/huancayo-obrero-va-preso-por-balear-a-dos-menores-noticia/",
+      "category": "Edición",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "El alza en la cotización internacional del petróleo impactará en la inflación de marzo",
+      "link": "https://diariocorreo.pe/economia/el-alza-en-la-cotizacion-internacional-del-petroleo-impactara-en-la-inflacion-de-marzo-noticia/",
+      "category": "Economía",
+      "date": "2026-03-14"
+    }
+  ]
+}
