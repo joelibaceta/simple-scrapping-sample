@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-03-16",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Director de hospital El Carmen de Huancayo a un paso de la censura por plagas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/director-de-hospital-carmen-de-huancayo-a-un-paso-de-la-censura-por-plagas-noticia/",
+      "category": "Huancayo",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "Piura: La filigrana cataquense brilló en el IV Concurso “HilArte”",
+      "link": "https://diariocorreo.pe/cultura/piura-la-filigrana-cataquense-brillo-en-el-iv-concurso-hilarte-noticia/",
+      "category": "Cultura",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "Liga 1: Los “Churres” vuelven a los triunfos y golean 3-0 al CD Moquegua",
+      "link": "https://diariocorreo.pe/deportes/liga-1-los-churres-vuelven-a-los-triunfos-y-golean-3-0-al-cd-moquegua-noticia/",
+      "category": "Deportes",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "Yvonne Frayssinet, actriz: “Trabajar motivada y en algo que te gusta es un regalo” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/yvonne-frayssinet-actriz-trabajar-motivada-y-en-algo-que-te-gusta-es-un-regalo-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-03-16"
+    }
+  ]
+}
