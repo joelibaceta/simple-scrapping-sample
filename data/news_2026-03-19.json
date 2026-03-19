@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-03-19",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Herbert Morote, escritor peruano: “Como escritor, Vargas Llosa es incuestionable; como político, debatible” (Entrevista)",
+      "link": "https://diariocorreo.pe/cultura/literatura-herbert-morote-escritor-peruano-como-escritor-vargas-llosa-es-incuestionable-como-politico-debatible-entrevista-libros-nobel-literatura-ensayo-noticia/",
+      "category": "Cultura",
+      "date": "2026-03-19"
+    },
+    {
+      "title": "Fiscalía ingresa a hospitales por contrato del Caso Horna",
+      "link": "https://diariocorreo.pe/politica/fiscalia-ingresa-a-hospitales-por-contrato-del-caso-horna-noticia/",
+      "category": "Política",
+      "date": "2026-03-19"
+    },
+    {
+      "title": "Más jóvenes peruanos optan por estudiar en el extranjero porque tienen mayores opciones laborales",
+      "link": "https://diariocorreo.pe/economia/mas-jovenes-peruanos-optan-por-estudiar-en-el-extranjero-porque-tienen-mayores-opciones-laborales-noticia/",
+      "category": "Economía",
+      "date": "2026-03-19"
+    }
+  ]
+}
