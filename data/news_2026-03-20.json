@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-03-20",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Jennifer Aguirre Woytkowski, directora y gestora cultural: “Si no abren puertas, hay que crear espacios que las abran”  (Entrevista)",
+      "link": "https://diariocorreo.pe/cultura/teatro-jennifer-aguirre-woytkowski-directora-y-gestora-cultural-si-no-abren-puertas-hay-que-crear-espacios-que-las-abran-entrevista-musica-escena-mujeres-artistas-lima-creadoras-noticia/",
+      "category": "Cultura",
+      "date": "2026-03-20"
+    },
+    {
+      "title": "El primer mes de José Balcázar deja un balance en rojo",
+      "link": "https://diariocorreo.pe/politica/el-primer-mes-de-jose-balcazar-deja-un-balance-en-rojo-noticia/",
+      "category": "Política",
+      "date": "2026-03-20"
+    },
+    {
+      "title": "Carlos Gálvez, ex presidente de la SNMPE: “Las medidas del Congreso destruyen la minería formal”",
+      "link": "https://diariocorreo.pe/economia/carlos-galvez-ex-presidente-de-la-snmpe-las-medidas-del-congreso-destruyen-la-mineria-formal-noticia/",
+      "category": "Economía",
+      "date": "2026-03-20"
+    }
+  ]
+}
