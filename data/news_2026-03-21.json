@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-03-21",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: más de S/2 millones incautan a banda criminal y a “La Reina”",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-mas-de-2-millones-incautan-a-banda-criminal-y-a-la-reina-noticia/",
+      "category": "Huancayo",
+      "date": "2026-03-21"
+    },
+    {
+      "title": "Huancayo: Joven ponía pisos en I.E. y se electrocuta",
+      "link": "https://diariocorreo.pe/edicion/huancayo-joven-ponia-pisos-en-ie-y-se-electrocuta-noticia/",
+      "category": "Edición",
+      "date": "2026-03-21"
+    },
+    {
+      "title": "BCR elevó su estimado de crecimiento de Perú para el 2026, pese a la crisis, y lo paso de 3% a 3.2%",
+      "link": "https://diariocorreo.pe/economia/bcr-elevo-su-estimado-de-crecimiento-de-peru-para-el-2026-pese-a-la-crisis-y-lo-paso-de-3-a-32-noticia/",
+      "category": "Economía",
+      "date": "2026-03-21"
+    }
+  ]
+}
