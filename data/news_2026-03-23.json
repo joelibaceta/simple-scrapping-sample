@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-03-23",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Keiko y López Aliaga lideran, pero Jorge Nieto se asoma en encuesta",
+      "link": "https://diariocorreo.pe/politica/keiko-y-lopez-aliaga-lideran-pero-jorge-nieto-se-asoma-en-encuesta-noticia/",
+      "category": "Política",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "Partidos aún no rinden cuentas a la ONPE",
+      "link": "https://diariocorreo.pe/politica/partidos-no-rindieron-cuentas-a-la-onpe-noticia/",
+      "category": "Política",
+      "date": "2026-03-23"
+    }
+  ]
+}
