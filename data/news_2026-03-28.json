@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-03-28",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Huancayo: veinte mujeres detenidas por robar en tiendas",
+      "link": "https://diariocorreo.pe/edicion/huancayo-veinte-mujeres-detenidas-por-robar-en-tiendas-noticia/",
+      "category": "Edición",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "Ernesto Pimentel y su sentido mensaje tras el fallecimiento de Manolo Rojas",
+      "link": "https://diariocorreo.pe/espectaculos/ernesto-pimentel-y-su-sentido-mensaje-tras-el-fallecimiento-de-manolo-rojas-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "Hernán Vidaurre llegó a la casa de Manolo Rojas tras enterarse de su fallecimiento",
+      "link": "https://diariocorreo.pe/espectaculos/hernan-vidaurre-llego-a-la-casa-de-manolo-rojas-tras-enterarse-de-su-fallecimiento-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "Rafael López Aliaga critica desempeño de Petroperú y propone reestructuración",
+      "link": "https://diariocorreo.pe/politica/rafael-lopez-aliaga-critica-a-petroperu-y-propone-reestructuracion-noticia/",
+      "category": "Política",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "La minería sigue siendo uno de los principales motores de la economía peruana",
+      "link": "https://diariocorreo.pe/economia/la-mineria-sigue-siendo-uno-de-los-principales-motores-de-la-economia-peruana-noticia/",
+      "category": "Economía",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "Peruano vivió casi 30 años con identidad falsa emitida por la Municipalidad Provincial de Pisco",
+      "link": "https://diariocorreo.pe/edicion/ica/identidad-noticia/",
+      "category": "Ica",
+      "date": "2026-03-28"
+    }
+  ]
+}
