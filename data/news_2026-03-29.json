@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-03-29",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "María Cordero busca anular 72 elementos en su investigación por presunta “mochasueldos”",
+      "link": "https://diariocorreo.pe/politica/maria-cordero-busca-anular-72-elementos-en-su-investigacion-por-presunta-mochasueldos-noticia/",
+      "category": "Política",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "Zozobra en Huancayo por lluvias intensas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/zozobra-en-huancayo-por-lluvias-intensas-noticia/",
+      "category": "Huancayo",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "Huancayo: Viajan 6 horas y no alcanzan a recoger DNI",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-viajan-6-horas-y-no-alcanzan-a-recoger-dni-noticia/",
+      "category": "Huancayo",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "Puno: Presidente Balcázar llegó a Juliaca y participó del inicio de la segunda etapa del proyecto integral de agua",
+      "link": "https://diariocorreo.pe/edicion/puno/puno-presidente-balcazar-llego-a-juliaca-y-participo-del-inicio-de-la-segunda-etapa-del-proyecto-integral-de-agua-noticia/",
+      "category": "Puno",
+      "date": "2026-03-29"
+    }
+  ]
+}
