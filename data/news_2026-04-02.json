@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-04-02",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Gobierno Regional La Libertad entregará S/ 3 millones más para Hospital Virú",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/gobierno-regional-la-libertad-entregara-s-3-millones-mas-para-hospital-viru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-02"
+    },
+    {
+      "title": "Precios se disparan y suben 2.38% en marzo, la tasa de inflación más alta en 32 años",
+      "link": "https://diariocorreo.pe/economia/precios-se-disparan-y-suben-238-en-marzo-la-tasa-de-inflacion-mas-alta-en-32-anos-noticia/",
+      "category": "Economía",
+      "date": "2026-04-02"
+    }
+  ]
+}
