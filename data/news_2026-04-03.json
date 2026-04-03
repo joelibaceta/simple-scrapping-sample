@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-04-03",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Tacna: Ofrecen 80 toneladas de especies marinas en el mercado Grau",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-ofrecen-80-toneladas-de-especies-marinas-en-el-mercado-grau-noticia/",
+      "category": "Tacna",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "Huancayo: chalecos que marcaron historia",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-chalecos-que-marcaron-historia-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "Huancayo: morirá en prisión por ultrajar a menor de 13",
+      "link": "https://diariocorreo.pe/edicion/huancayo-morira-en-prision-por-ultrajar-a-menor-de-13-noticia/",
+      "category": "Edición",
+      "date": "2026-04-03"
+    },
+    {
+      "title": "Semana Santa: Pescado también sube de precio (FOTOS)",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/pescado-tambien-sube-de-precio-semana-santa-trujillo-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-03"
+    }
+  ]
+}
