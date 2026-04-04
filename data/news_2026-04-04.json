@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-04-04",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Afiliados de las AFP que se jubilen pueden seguir trabajando, cobrando pensión y salario",
+      "link": "https://diariocorreo.pe/economia/afiliados-de-las-afp-que-se-jubilen-pueden-seguir-trabajando-cobrando-pension-y-salario-noticia/",
+      "category": "Economía",
+      "date": "2026-04-04"
+    },
+    {
+      "title": "Huancayo: Cristo murió en Wariwillka",
+      "link": "https://diariocorreo.pe/edicion/huancayo-cristo-murio-en-wariwillka-noticia/",
+      "category": "Edición",
+      "date": "2026-04-04"
+    },
+    {
+      "title": "Huancayo: exalcalde, su hijo y nuera que venían a entierro caen al río",
+      "link": "https://diariocorreo.pe/edicion/huanuco/huancayo-exalcalde-su-hijo-y-nuera-que-venian-a-entierro-caen-al-rio-noticia/",
+      "category": "Edición",
+      "date": "2026-04-04"
+    },
+    {
+      "title": "La Libertad: Vía Crucis de Otuzco convocó a más de 25 mil personas",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/via-crucis-de-otuzco-convoco-a-mas-de-25-mil-personas-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-04"
+    },
+    {
+      "title": "No había permisos: Matute fue clausurado temporalmente tras el incidente en el banderazo previo al clásico",
+      "link": "https://diariocorreo.pe/deportes/universitario-vs-alianza-lima-municipalidad-de-la-victoria-clausuro-de-manera-temporal-el-estadio-de-matute-tras-fallecimiento-de-hincha-en-banderazo-clasico-u-alianza-noticia/",
+      "category": "Deportes",
+      "date": "2026-04-04"
+    }
+  ]
+}
