@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-04-05",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Tarma: ingeniero muere ahogado en una laguna",
+      "link": "https://diariocorreo.pe/edicion/huancayo/tarma-ingeniero-muere-ahogado-en-una-laguna-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "Huancayo: niño pierde el ojo por pirotécnico",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-nino-pierde-el-ojo-por-pirotecnico-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-05"
+    },
+    {
+      "title": "Huancayo: “Tan solo quedan 15 inmuebles declarados monumentos”",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-tan-solo-quedan-15-inmuebles-declarados-monumentos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-05"
+    }
+  ]
+}
