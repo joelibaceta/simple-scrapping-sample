@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-04-07",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: El viernes será la entrega de locales de votación a la ODPE",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-el-viernes-sera-la-entrega-de-locales-de-votacion-a-la-odpe-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-07"
+    },
+    {
+      "title": "El precio del petróleo subió ayer a $ 112 el barril y el dólar perdió 255 puntos",
+      "link": "https://diariocorreo.pe/economia/el-precio-del-petroleo-subio-ayer-a-112-el-barril-y-el-dolar-perdio-255-puntos-noticia/",
+      "category": "Economía",
+      "date": "2026-04-07"
+    },
+    {
+      "title": "Tacna: Chofer muere y mujer queda muy grave al estrellarse contra árbol",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-chofer-muere-y-mujer-queda-muy-grave-al-estrellarse-contra-arbol-noticia/",
+      "category": "Tacna",
+      "date": "2026-04-07"
+    }
+  ]
+}
