@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-04-09",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Cuatro “Pulpos” dirigen atentados en Trujillo desde el extranjero",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/cuatro-pulpos-dirigen-atentados-en-trujillo-desde-el-extranjero-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Carlos Malamud: “La pregunta es si Julio Velarde es un hombre o una institución”",
+      "link": "https://diariocorreo.pe/politica/carlos-malamud-la-pregunta-es-si-julio-velarde-es-un-hombre-o-una-institucion-noticia/",
+      "category": "Política",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "Perupetro advierte que Petroperú pone trabas al Lote Z-69 porque no entrega la información que se le pide",
+      "link": "https://diariocorreo.pe/economia/perupetro-advierte-que-petroperu-pone-trabas-al-lote-z-69-por-no-entregar-informacion-que-se-le-pide-noticia/",
+      "category": "Economía",
+      "date": "2026-04-09"
+    },
+    {
+      "title": "La informalidad afecta al 65% de la población de las regiones del sur",
+      "link": "https://diariocorreo.pe/economia/la-informalidad-afecta-al-65-de-la-poblacion-de-las-regiones-del-sur-noticia/",
+      "category": "Economía",
+      "date": "2026-04-09"
+    }
+  ]
+}
