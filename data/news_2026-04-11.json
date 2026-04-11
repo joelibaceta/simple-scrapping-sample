@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-04-11",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Allanan 27 inmuebles por contratos vinculados a José Jerí",
+      "link": "https://diariocorreo.pe/politica/allanan-27-inmuebles-por-contratos-vinculados-a-jose-jeri-noticia/",
+      "category": "Política",
+      "date": "2026-04-11"
+    },
+    {
+      "title": "Paralizar el proyecto cuprífero Tía María es una mala señal para los inversionistas",
+      "link": "https://diariocorreo.pe/economia/paralizar-el-proyecto-cuprifero-tia-maria-es-una-mala-senal-para-los-inversionistas-noticia/",
+      "category": "Economía",
+      "date": "2026-04-11"
+    },
+    {
+      "title": "Huancayo: cacos ‘sobre ruedas’ vuelven al ataque",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-cacos-sobre-ruedas-vuelven-al-ataque-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-11"
+    },
+    {
+      "title": "Pasco: recluso condenado por agresión sexual sufre el mismo abuso",
+      "link": "https://diariocorreo.pe/edicion/huancayo/pasco-recluso-condenado-por-agresion-sexual-sufre-el-mismo-abuso-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-11"
+    },
+    {
+      "title": "Elecciones 2026: JNE fija reglas para la aplicación de la valla electoral",
+      "link": "https://diariocorreo.pe/politica/elecciones-2026-jne-fija-reglas-para-la-aplicacion-de-la-valla-electoral-noticia/",
+      "category": "Política",
+      "date": "2026-04-11"
+    },
+    {
+      "title": "China inicia preparativos de la misión Chang’e-7, clave para explorar el polo sur lunar",
+      "link": "https://diariocorreo.pe/mundo/china-inicia-preparativos-de-la-mision-change-7-clave-para-explorar-el-polo-sur-lunar-noticia/",
+      "category": "Mundo",
+      "date": "2026-04-11"
+    }
+  ]
+}
