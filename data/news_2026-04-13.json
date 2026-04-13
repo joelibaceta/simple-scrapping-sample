@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-04-13",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Escaños para el Senado: FP 22, JPP 11 y Renovación 8",
+      "link": "https://diariocorreo.pe/politica/escanos-para-el-senado-fp-22-jpp-11-y-renovacion-8-noticia/",
+      "category": "Política",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Cámara de Diputados: Se perfilan 6 bancadas",
+      "link": "https://diariocorreo.pe/videos/camara-de-diputados-se-perfilan-6-bancadas-noticia/",
+      "category": "Videos",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Elecciones 2026: Gerente de Educación pide dejar colegios limpios",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/gerente-de-educacion-pide-dejar-colegios-limpios-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Conteo rápido Datum al 100%: Keiko Fujimori se mantiene en primer lugar con 16,8% y Rafael López Aliaga queda segundo",
+      "link": "https://diariocorreo.pe/politica/conteo-rapido-datum-al-100-keiko-fujimori-se-mantiene-en-primer-lugar-y-rafael-lopez-aliaga-queda-segundo-noticia/",
+      "category": "Política",
+      "date": "2026-04-13"
+    },
+    {
+      "title": "Cyber Wow en la Ripley App: Grandes ofertas del 20 al 23 de abril",
+      "link": "https://diariocorreo.pe/publireportaje/cyber-wow-en-la-ripley-app-grandes-ofertas-del-20-al-23-de-abr-noticia/",
+      "category": "Publireportaje",
+      "date": "2026-04-13"
+    }
+  ]
+}
