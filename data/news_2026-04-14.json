@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-04-14",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Trujillo: Mario Reyna evalúa continuidad de su precandidatura",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/mario-reyna-evalua-continuidad-de-su-precandidatura-trujillo-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-14"
+    },
+    {
+      "title": "IIMP: Perú perdería su grado de inversión por persistencia de las economía ilegales",
+      "link": "https://diariocorreo.pe/economia/iimp-peru-perderia-su-grado-de-inversion-por-persistencia-de-las-economia-ilegales-noticia/",
+      "category": "Economía",
+      "date": "2026-04-14"
+    }
+  ]
+}
