@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-04-15",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Alianza Atlético a romper al América de Cali por la Copa Sudamericana",
+      "link": "https://diariocorreo.pe/deportes/alianza-atletico-a-romper-al-america-de-cali-por-la-copa-sudamericana-noticia/",
+      "category": "Deportes",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Kany García, cantante y compositora: “Las canciones que escribo sin pretensiones, logran la complicidad con la gente” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/kany-garcia-cantante-y-compositora-las-canciones-que-escribo-sin-pretensiones-logran-la-complicidad-con-la-gente-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-04-15"
+    },
+    {
+      "title": "Trabajadores CAS: MEF carece de presupuesto para pagar CTS y gratificación",
+      "link": "https://diariocorreo.pe/economia/trabajadores-cas-mef-carece-de-presupuesto-para-pagar-cts-y-gratificacion-noticia/",
+      "category": "Economía",
+      "date": "2026-04-15"
+    }
+  ]
+}
