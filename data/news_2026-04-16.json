@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-04-16",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Dos candidatos presidenciales en el Senado",
+      "link": "https://diariocorreo.pe/politica/dos-candidatos-presidenciales-en-el-senado-noticia/",
+      "category": "Política",
+      "date": "2026-04-16"
+    },
+    {
+      "title": "Avanza definición en Cámara de Diputados",
+      "link": "https://diariocorreo.pe/politica/avanza-definicion-en-camara-de-diputados-noticia/",
+      "category": "Política",
+      "date": "2026-04-16"
+    }
+  ]
+}
