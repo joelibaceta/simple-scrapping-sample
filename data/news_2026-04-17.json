@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-04-17",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Voto regional se partió: derecha 12, izquierda 13",
+      "link": "https://diariocorreo.pe/politica/voto-regional-se-partio-derecha-12-izquierda-13-noticia/",
+      "category": "Política",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "Elecciones 2026: pugna por el segundo lugar es de infarto",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/elecciones-2026-pugna-por-el-segundo-lugar-es-de-infarto-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-17"
+    },
+    {
+      "title": "La Libertad: Agua de Chavimochic llegará a otras 367 hectáreas",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/agua-de-chavimochic-llegara-a-otras-367-hectareas-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-17"
+    }
+  ]
+}
