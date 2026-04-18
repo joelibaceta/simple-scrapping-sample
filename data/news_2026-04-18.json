@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-04-18",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Huancayo: dictan prisión para banda “Los Tecnológicos”",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-dictan-prision-para-banda-los-tecnologicos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "Intervienen almacén central de la ONPE",
+      "link": "https://diariocorreo.pe/politica/intervienen-almacen-central-de-la-onpe-noticia/",
+      "category": "Política",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "Juristas no ven impedimento para suspender ya a Piero Corvetto",
+      "link": "https://diariocorreo.pe/politica/juristas-no-ven-impedimento-para-suspender-ya-a-piero-corvetto-noticia/",
+      "category": "Política",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "Huancayo: joven estrangula a menor de 17 años tras pelea en el río",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-joven-estrangula-a-menor-de-17-anos-tras-pelea-en-el-rio-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "Elecciones 2026: Rafael López Aliaga y Roberto Sánchez en dura pugna por entrar al balotaje",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/rafael-lopez-aliaga-y-roberto-sanchez-en-dura-pugna-por-entrar-al-balotaje-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-18"
+    }
+  ]
+}
