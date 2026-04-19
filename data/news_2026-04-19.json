@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-04-19",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Huancayo: van a salvar vidas y por poco mueren atropellados",
+      "link": "https://diariocorreo.pe/edicion/huancayo-van-a-salvar-vidas-y-por-poco-mueren-atropellados-noticia/",
+      "category": "Edición",
+      "date": "2026-04-19"
+    },
+    {
+      "title": "Huancayo: red compraba los IPhones robados a 800 y 1500 soles",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-red-compraba-los-iphones-robados-a-800-y-1500-soles-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-19"
+    }
+  ]
+}
