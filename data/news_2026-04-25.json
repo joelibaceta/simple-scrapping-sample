@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-04-25",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Empresario muere al caer de edificio en Pasco",
+      "link": "https://diariocorreo.pe/edicion/empresario-muere-al-caer-de-edificio-en-pasco-noticia/",
+      "category": "Edición",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Huancayo: pena máxima para instructor por ultraje de una menor de 12 años",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-pena-maxima-para-instructor-por-ultraje-de-una-menor-de-13-anos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-25"
+    },
+    {
+      "title": "Gasoducto: Desde el 2005 a la fecha las reguladoras han registrado 13 fallas",
+      "link": "https://diariocorreo.pe/economia/gasoducto-desde-el-2005-a-la-fecha-las-reguladoras-han-registrado-13-fallas-noticia/",
+      "category": "Economía",
+      "date": "2026-04-25"
+    }
+  ]
+}
