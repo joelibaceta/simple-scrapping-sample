@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-04-26",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Junín: Neumonía cobra la vida de 36 personas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-neumonia-cobra-la-vida-de-36-personas-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "Junín: Roban sacos de zapatillas y los vendían en tiendas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-roban-sacos-de-zapatillas-y-los-vendian-en-tiendas-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "“Debe haber un cambio en la visión de los reguladores”",
+      "link": "https://diariocorreo.pe/politica/debe-haber-un-cambio-en-la-vision-de-los-reguladores-noticia/",
+      "category": "Política",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "Apurímac castigó a “Porky” por exceso verbal: 6 mil votos",
+      "link": "https://diariocorreo.pe/politica/apurimac-castigo-a-porky-por-exceso-verbal-6-mil-votos-noticia/",
+      "category": "Política",
+      "date": "2026-04-26"
+    },
+    {
+      "title": "VRAEM: Cinco muertos y dos jóvenes heridos en operativo militar",
+      "link": "https://diariocorreo.pe/edicion/huancayo/vraem-cinco-muertos-y-dos-jovenes-heridos-en-operativo-militar-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-26"
+    }
+  ]
+}
