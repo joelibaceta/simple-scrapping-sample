@@ -1,0 +1,48 @@
+{
+  "scrape_date": "2026-04-30",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Fiscalía halla un pasaporte en la casa de Piero Corvetto",
+      "link": "https://diariocorreo.pe/politica/fiscalia-halla-un-pasaporte-en-la-casa-de-piero-corvetto-noticia/",
+      "category": "Política",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "La Libertad: Confirman pagos irregulares en Chavimochic",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/la-libertad-confirman-pagos-irregulares-en-chavimochic-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Cae uno más de los ‘Tecnológicos del Mantaro: “Ben 10″ es internado en penal",
+      "link": "https://diariocorreo.pe/edicion/huancayo/cae-uno-mas-de-los-tecnologicos-del-mantaro-ben-10-es-internado-en-penal-noticia/",
+      "category": "Huancayo",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Corvetto basó pedido de más presupuesto en innovación tecnológica",
+      "link": "https://diariocorreo.pe/politica/corvetto-baso-pedido-de-mas-presupuesto-en-innovacion-tecnologica-noticia/",
+      "category": "Política",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Corvetto le costó al Estado casi S/ 2 millones",
+      "link": "https://diariocorreo.pe/politica/corvetto-le-costo-al-estado-casi-s-2-millones-noticia/",
+      "category": "Política",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "La Libertad: Proponen retorno de instrucción premilitar en colegios",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/la-libertad-proponen-retorno-de-instruccion-premilitar-en-colegios-noticia/",
+      "category": "La Libertad",
+      "date": "2026-04-30"
+    },
+    {
+      "title": "Petroperú se resiste a dar información sobre su situación",
+      "link": "https://diariocorreo.pe/economia/petroperu-se-resiste-a-dar-informacion-sobre-su-situacion-noticia/",
+      "category": "Economía",
+      "date": "2026-04-30"
+    }
+  ]
+}
