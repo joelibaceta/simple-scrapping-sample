@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-05-01",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Banco Mundial: La economía peruana puede crecer al doble de la tasa que hoy registra",
+      "link": "https://diariocorreo.pe/economia/banco-mundial-la-economia-peruana-puede-crecer-al-doble-de-la-tasa-que-actualmente-registra-noticia/",
+      "category": "Economía",
+      "date": "2026-05-01"
+    },
+    {
+      "title": "Ollanta Humala se juega su última carta: PJ evalúa apelación de sentencia",
+      "link": "https://diariocorreo.pe/politica/ollanta-humala-se-juega-su-ultima-carta-pj-evalua-apelacion-noticia/",
+      "category": "Política",
+      "date": "2026-05-01"
+    }
+  ]
+}
