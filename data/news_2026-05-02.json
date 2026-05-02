@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-05-02",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Productores rayan con papas nativas y pachamanca",
+      "link": "https://diariocorreo.pe/edicion/huancayo/productores-rayan-con-papas-nativas-y-pachamanca-noticia/",
+      "category": "Huancayo",
+      "date": "2026-05-02"
+    },
+    {
+      "title": "INEI: Los precios suben más de 4% en los últimos doce meses en Lima Metropolitana",
+      "link": "https://diariocorreo.pe/economia/inei-los-precios-suben-mas-de-4-en-los-ultimos-doce-meses-en-lima-metropolitana-noticia/",
+      "category": "Economía",
+      "date": "2026-05-02"
+    }
+  ]
+}
