@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-05-04",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Chantal Andere, actriz y cantante: “Las villanas me encantan y me han dado una difusión increíble” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/chantal-andere-actriz-y-cantante-las-villanas-me-encantan-y-me-han-dado-una-difusion-increible-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "Presidente Balcázar admite que habló con el prófugo Vladimir Cerrón",
+      "link": "https://diariocorreo.pe/politica/presidente-balcazar-admite-que-hablo-con-el-profugo-vladimir-cerron-noticia/",
+      "category": "Política",
+      "date": "2026-05-04"
+    },
+    {
+      "title": "Audio revela caos logístico en ONPE: Material electoral mojado, sin embalaje y rutas definidas a último minuto",
+      "link": "https://diariocorreo.pe/politica/audio-revela-caos-logistico-en-onpe-material-electoral-mojado-sin-embalaje-y-rutas-definidas-a-ultimo-minuto-noticia/",
+      "category": "Política",
+      "date": "2026-05-04"
+    }
+  ]
+}
