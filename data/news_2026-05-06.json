@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-05-06",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Moquegua: Taxista intenta ultrajar a pasajera en estado de ebriedad",
+      "link": "https://diariocorreo.pe/edicion/moquegua/moquegua-taxista-intenta-ultrajar-a-pasajera-en-estado-de-ebriedad-noticia/",
+      "category": "Moquegua",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "Tacna: Detienen por violación a varón que dormía con menor desaparecida",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-detienen-por-violacion-a-varon-que-dormia-con-menor-desaparecida-noticia/",
+      "category": "Tacna",
+      "date": "2026-05-06"
+    },
+    {
+      "title": "La era Castillo nos hundió en la pobreza: 25.7%",
+      "link": "https://diariocorreo.pe/economia/la-era-castillo-nos-hundio-en-la-pobreza-257-noticia/",
+      "category": "Economía",
+      "date": "2026-05-06"
+    }
+  ]
+}
