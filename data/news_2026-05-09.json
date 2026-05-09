@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-05-09",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Vuelve el fantasma del indulto a Pedro Castillo",
+      "link": "https://diariocorreo.pe/politica/vuelve-el-fantasma-del-indulto-a-pedro-castillo-noticia/",
+      "category": "Política",
+      "date": "2026-05-09"
+    },
+    {
+      "title": "Huancayo: policía “interviene” a mamitas en su día",
+      "link": "https://diariocorreo.pe/edicion/huancayo-policia-interviene-a-mamitas-en-su-dia-noticia/",
+      "category": "Edición",
+      "date": "2026-05-09"
+    },
+    {
+      "title": "Efecto de incertidumbre de elecciones: La confianza empresarial se enfrió en abril",
+      "link": "https://diariocorreo.pe/economia/efecto-de-incertidumbre-de-elecciones-la-confianza-empresarial-se-enfrio-en-abril-noticia/",
+      "category": "Economía",
+      "date": "2026-05-09"
+    }
+  ]
+}
