@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-05-10",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "David Bisbal llega a Lima con su gira “Tour Eternos 2026″",
+      "link": "https://diariocorreo.pe/espectaculos/david-bisbal-llega-a-lima-con-su-gira-tour-eternos-2026-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-05-10"
+    },
+    {
+      "title": "Huancayo: con engaños piden servicio a camionero y le roban vehículo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-con-enganos-piden-servicio-a-camionero-y-le-roban-vehiculo-noticia/",
+      "category": "Huancayo",
+      "date": "2026-05-10"
+    },
+    {
+      "title": "Madre emprendedora de Chacapalpa desafía la polio y saca adelante negocio de productos lácteos",
+      "link": "https://diariocorreo.pe/edicion/huancayo/madre-emprendedora-de-chacapalpa-desafia-la-polio-y-saca-adelante-negocio-de-productos-lacteos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-05-10"
+    }
+  ]
+}
