@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-05-12",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Premier insiste en que indulto a Pedro Castillo “no está en agenda”",
+      "link": "https://diariocorreo.pe/politica/premier-insiste-en-que-indulto-a-pedro-castillo-no-esta-en-agenda-noticia/",
+      "category": "Política",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Petroperú recibirá $ 2,000 millones y el Ejecutivo afirma que no es salvataje",
+      "link": "https://diariocorreo.pe/economia/petroperu-recibira-2000-millones-y-el-ejecutivo-afirma-que-no-es-salvataje-noticia/",
+      "category": "Economía",
+      "date": "2026-05-12"
+    },
+    {
+      "title": "Ex ministro de Economía, David Tuesta: “La seguridad energética es la excusa perfecta”",
+      "link": "https://diariocorreo.pe/economia/ex-ministro-de-economia-david-tuesta-la-seguridad-energetica-es-la-excusa-perfecta-noticia/",
+      "category": "Economía",
+      "date": "2026-05-12"
+    }
+  ]
+}
