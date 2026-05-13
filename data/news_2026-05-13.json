@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-05-13",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Tacna: Sorprenden a cuatro escolares consumiendo licor en colegio abandonado",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-sorprenden-a-cuatro-escolares-consumiendo-licor-en-colegio-abandonado-noticia/",
+      "category": "Tacna",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "La derecha sacó un millón de votos más en primera vuelta",
+      "link": "https://diariocorreo.pe/politica/la-derecha-saco-un-millon-de-votos-mas-en-primera-vuelta-noticia/",
+      "category": "Política",
+      "date": "2026-05-13"
+    },
+    {
+      "title": "Fortalecen autonomía económica de más de 80 mujeres de la pesca artesanal",
+      "link": "https://diariocorreo.pe/edicion/tacna/fortalecen-autonomia-economica-de-mas-de-80-mujeres-de-la-pesca-artesanal-noticia/",
+      "category": "Tacna",
+      "date": "2026-05-13"
+    }
+  ]
+}
