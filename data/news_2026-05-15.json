@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-05-15",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "La Libertad: PNP y soldados harán operativos en distritos",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/pnp-y-soldados-haran-operativos-en-distritos-trujillo-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "Renovación Popular: “Agotamos todas las instancias”",
+      "link": "https://diariocorreo.pe/politica/renovacion-popular-agotamos-todas-las-instancias-noticia/",
+      "category": "Política",
+      "date": "2026-05-15"
+    },
+    {
+      "title": "El modelo económico no es la causa de la pobreza en el Perú",
+      "link": "https://diariocorreo.pe/economia/el-modelo-economico-no-es-la-causa-de-la-pobreza-en-el-peru-noticia/",
+      "category": "Economía",
+      "date": "2026-05-15"
+    }
+  ]
+}
