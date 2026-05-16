@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-05-16",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Pacientes sufren para conseguir cita o cupo para operación en el Carrión",
+      "link": "https://diariocorreo.pe/edicion/huancayo/pacientes-sufren-para-conseguir-cita-o-cupo-para-operacion-en-el-carrion-noticia/",
+      "category": "Huancayo",
+      "date": "2026-05-16"
+    },
+    {
+      "title": "CUPAZ rescata a 33 mineros secuestrados en socavón en Pataz",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/cupaz-rescata-a-33-mineros-secuestrados-en-socavon-en-pataz-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-05-16"
+    },
+    {
+      "title": "Huancayo: cámaras captan a ladrones robando casas y vehículos",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-camaras-captan-a-ladrones-robando-casas-y-vehiculos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-05-16"
+    },
+    {
+      "title": "Archivan proceso a PPK por lavado de activos",
+      "link": "https://diariocorreo.pe/politica/archivan-proceso-a-ppk-por-lavado-de-activos-noticia/",
+      "category": "Política",
+      "date": "2026-05-16"
+    },
+    {
+      "title": "Combustible: El Fondo de Estabilización disminuye la volatilidad de precios",
+      "link": "https://diariocorreo.pe/economia/combustible-el-fondo-de-estabilizacion-disminuye-la-volatilidad-de-precios-noticia/",
+      "category": "Economía",
+      "date": "2026-05-16"
+    }
+  ]
+}
