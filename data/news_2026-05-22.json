@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-05-22",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Huancayo: millonarias ganancias por llevarlos a EE.UU. y UE",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-millonarias-ganancias-por-llevarlos-a-eeuu-y-ue-noticia/",
+      "category": "Huancayo",
+      "date": "2026-05-22"
+    },
+    {
+      "title": "Regiones recibieron S/ 60 mil millones de empresas mineras en los últimos 10 años",
+      "link": "https://diariocorreo.pe/economia/regiones-recibieron-s-60-mil-millones-de-empresas-mineras-en-los-ultimos-10-anos-noticia/",
+      "category": "Economía",
+      "date": "2026-05-22"
+    }
+  ]
+}
