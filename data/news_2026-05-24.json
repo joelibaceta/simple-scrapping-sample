@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-05-24",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "La Libertad: Joven es asesinado a balazos en El Porvenir",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/joven-es-asesinado-a-balazos-en-el-porvenir-trujillo-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "“Con Pedro Francke hubo la fuga más grande de capitales”",
+      "link": "https://diariocorreo.pe/politica/con-pedro-francke-hubo-la-fuga-mas-grande-de-capitales-noticia/",
+      "category": "Política",
+      "date": "2026-05-24"
+    },
+    {
+      "title": "Equipos técnicos de Fuerza Popular y JP debaten hoy",
+      "link": "https://diariocorreo.pe/politica/equipos-tecnicos-de-fuerza-popular-y-jp-debaten-hoy-noticia/",
+      "category": "Política",
+      "date": "2026-05-24"
+    }
+  ]
+}
