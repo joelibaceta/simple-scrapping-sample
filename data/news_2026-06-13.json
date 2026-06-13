@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-06-13",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Hualhuas: trabajador muere sepultado en obra de agua y desagüe",
+      "link": "https://diariocorreo.pe/edicion/hualhuas-trabajador-muere-sepultado-en-obra-de-agua-y-desague-noticia/",
+      "category": "Edición",
+      "date": "2026-06-13"
+    },
+    {
+      "title": "Pedido de JP de anular 2399 mesas es rechazado",
+      "link": "https://diariocorreo.pe/politica/pedido-de-jp-de-anular-2399-mesas-es-rechazado-noticia/",
+      "category": "Política",
+      "date": "2026-06-13"
+    },
+    {
+      "title": "Descubren un segundo cráneo de mastodonte andino en Chambará",
+      "link": "https://diariocorreo.pe/edicion/descubren-un-segundo-craneo-de-mastodonte-andino-en-chambara-noticia/",
+      "category": "Edición",
+      "date": "2026-06-13"
+    }
+  ]
+}
