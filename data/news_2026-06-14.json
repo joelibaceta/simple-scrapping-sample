@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-06-14",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: cuatro incendios en un día consumen 2 casas, taller y local",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-cuatro-incendios-en-un-dia-consumen-2-casas-taller-y-local-noticia/",
+      "category": "Huancayo",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "Tacna: Se comercializa el 60% de 1.5 millones de litros de vino producidos al año",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-se-comercializa-el-60-de-15-millones-de-litros-de-vino-producidos-al-ano-noticia/",
+      "category": "Tacna",
+      "date": "2026-06-14"
+    },
+    {
+      "title": "Tacna: Unas 30 cámaras de vigilancia permanecen almacenadas desde febrero",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-unos-30-camaras-de-vigilancia-nuevas-permanecen-almacenadas-desde-febrero-noticia/",
+      "category": "Tacna",
+      "date": "2026-06-14"
+    }
+  ]
+}
