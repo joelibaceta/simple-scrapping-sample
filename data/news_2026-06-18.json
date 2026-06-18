@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-06-18",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Pese a temperaturas de -6° que afectan a la región Junín, comunas no gestionan ayuda",
+      "link": "https://diariocorreo.pe/edicion/huancayo/pese-a-temperaturas-de-6-que-afectan-a-la-region-junin-comunas-no-gestionan-ayuda-noticia/",
+      "category": "Huancayo",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "El papel dirimente de la bancada del Partido Buen Gobierno",
+      "link": "https://diariocorreo.pe/politica/el-papel-dirimente-de-la-bancada-del-partido-buen-gobierno-noticia/",
+      "category": "Política",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Trujillo será clave durante visita del papa León XIV",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/trujillo-sera-clave-durante-visita-del-papa-leon-xiv-noticia/",
+      "category": "La Libertad",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Ahora Eliane Karp pide indultar a Alejandro Toledo",
+      "link": "https://diariocorreo.pe/politica/ahora-karp-pide-indultar-a-toledo-noticia/",
+      "category": "Política",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Degradan a Juárez Atoche: será fiscal provincial",
+      "link": "https://diariocorreo.pe/politica/degradan-a-juarez-atoche-sera-fiscal-provincial-noticia/",
+      "category": "Política",
+      "date": "2026-06-18"
+    }
+  ]
+}
