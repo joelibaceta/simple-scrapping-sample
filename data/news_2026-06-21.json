@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-06-21",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Huancayo: cacos desmantelan seis maquinarias y carros en 90 minutos",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-cacos-desmantelan-seis-maquinarias-y-carros-en-90-minutos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "Ocho militares enviados a prisión por masacre en Colcabamba",
+      "link": "https://diariocorreo.pe/edicion/huancayo/ocho-militares-enviados-a-prision-por-masacre-en-colcabamba-noticia/",
+      "category": "Huancayo",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "Se extingue plazo en este Gobierno para indultar a Castillo o Toledo",
+      "link": "https://diariocorreo.pe/politica/se-extingue-plazo-en-este-gobierno-para-indultar-a-castillo-o-toledo-noticia/",
+      "category": "Política",
+      "date": "2026-06-21"
+    },
+    {
+      "title": "¿Qué enfermedades aquejan a los padres?",
+      "link": "https://diariocorreo.pe/edicion/huancayo/conozca-la-enfermedades-que-aquejan-a-los-padres-noticia/",
+      "category": "Huancayo",
+      "date": "2026-06-21"
+    }
+  ]
+}
