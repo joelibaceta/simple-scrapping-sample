@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-06-25",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Incendio forestal devasta pastizales y afecta fauna silvestre en las alturas de Tarma (FOTOS)",
+      "link": "https://diariocorreo.pe/edicion/huancayo/incendio-forestal-arrasa-con-plantas-y-animales-silvestres-en-tarma-noticia/",
+      "category": "Huancayo",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "La Libertad: Lanzan mochila con dinamita dentro de oficinas de Poderosa",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/la-libertad-lanzan-mochila-con-dinamita-dentro-de-oficinas-de-poderosa-noticia/",
+      "category": "La Libertad",
+      "date": "2026-06-25"
+    },
+    {
+      "title": "Diez regiones estarían evitando el control de gasto de cara a las elecciones",
+      "link": "https://diariocorreo.pe/economia/diez-regiones-estarian-evitando-el-control-de-gasto-de-cara-a-las-elecciones-noticia/",
+      "category": "Economía",
+      "date": "2026-06-25"
+    }
+  ]
+}
