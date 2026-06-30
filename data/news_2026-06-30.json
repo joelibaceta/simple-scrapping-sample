@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-06-30",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: Alerta por heladas pero sin centros de salud entregados",
+      "link": "https://diariocorreo.pe/edicion/huancayo-alerta-por-heladas-pero-sin-centros-de-salud-entregados-noticia/",
+      "category": "Edición",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "Huancayo: Colas desbordan en el feriado en emergencia de hospital de EsSalud",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-colas-desbordan-en-el-feriado-en-emergencia-de-hospital-de-essalud-noticia/",
+      "category": "Huancayo",
+      "date": "2026-06-30"
+    },
+    {
+      "title": "La inseguridad ciudadana es el principal riesgo para economía peruana",
+      "link": "https://diariocorreo.pe/economia/la-inseguridad-ciudadana-es-el-principal-riesgo-para-economia-peruana-noticia/",
+      "category": "Economía",
+      "date": "2026-06-30"
+    }
+  ]
+}
