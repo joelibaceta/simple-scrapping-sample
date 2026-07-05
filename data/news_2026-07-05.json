@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-07-05",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Crédito suplementario: Apenas 3% es para El Niño",
+      "link": "https://diariocorreo.pe/politica/credito-suplementario-apenas-3-es-para-el-nino-noticia/",
+      "category": "Política",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "Huancayo: vidriero muere atragantado cuando consumía caldo de cordero",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-vidriero-muere-atragantado-cuando-consumia-caldo-de-cordero-noticia/",
+      "category": "Huancayo",
+      "date": "2026-07-05"
+    },
+    {
+      "title": "Productores de papa nativa pueden perder 2 millones de soles por falta de mercado",
+      "link": "https://diariocorreo.pe/edicion/huancayo/productores-de-papa-nativa-pueden-perder-2-millones-de-soles-por-falta-de-mercado-noticia/",
+      "category": "Huancayo",
+      "date": "2026-07-05"
+    }
+  ]
+}
