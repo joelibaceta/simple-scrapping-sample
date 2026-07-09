@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-07-09",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Congreso Bicameral heredará 134 expedientes de la Subcomisión",
+      "link": "https://diariocorreo.pe/politica/congreso-bicameral-heredara-134-expedientes-de-la-subcomision-noticia/",
+      "category": "Política",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "La región Junín atraviesa por días de alta transmisibilidad de sarampión",
+      "link": "https://diariocorreo.pe/edicion/huancayo/la-region-junin-atraviesa-por-dias-de-alta-transmisibilidad-de-sarampion-noticia/",
+      "category": "Huancayo",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "Hubo 122 asesinatos durante el primer semestre en La Libertad",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/hubo-122-asesinatos-durante-el-primer-semestre-en-la-libertad-noticia/",
+      "category": "La Libertad",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "El fenómeno de El Niño arriesga el 60% de la producción de alimentos en el país",
+      "link": "https://diariocorreo.pe/economia/el-fenomeno-de-el-nino-arriesga-el-60-de-la-produccion-de-alimentos-en-el-pais-noticia/",
+      "category": "Economía",
+      "date": "2026-07-09"
+    },
+    {
+      "title": "López-Aliaga y Keiko se unen por la gobernabilidad",
+      "link": "https://diariocorreo.pe/politica/lopez-aliaga-y-keiko-se-unen-por-la-gobernabilidad-noticia/",
+      "category": "Política",
+      "date": "2026-07-09"
+    }
+  ]
+}
