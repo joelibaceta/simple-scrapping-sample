@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-07-11",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Perú tiene mayores ingresos por la bonanza de precios altos, pero no está ahorrando",
+      "link": "https://diariocorreo.pe/economia/peru-tiene-mayores-ingresos-por-la-bonanza-de-precios-altos-pero-no-esta-ahorrando-noticia/",
+      "category": "Economía",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Grupo de Trabajo de la ONU genera críticas tras pedir liberación de Castillo",
+      "link": "https://diariocorreo.pe/politica/grupo-de-trabajo-de-la-onu-despierta-criticas-tras-pedir-liberacion-de-castillo-noticia/",
+      "category": "Política",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Huancayo: Auquimarca da ultimátum a Gobierno Regional de Junín por puente Comuneros I",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-auquimarca-da-ultimatum-a-grj-por-puente-comuneros-i-noticia/",
+      "category": "Huancayo",
+      "date": "2026-07-11"
+    },
+    {
+      "title": "Escritores peruanos impulsan campaña contra la piratería de libros: “Respeta nuestras lecturas, respeta nuestros derechos”",
+      "link": "https://diariocorreo.pe/cultura/literatura-escritores-peruanos-impulsan-campana-contra-la-pirateria-de-libros-respeta-nuestras-lecturas-respeta-nuestros-derechos-libros-escritores-peruanos-autores-editoriales-colegios-noticia/",
+      "category": "Cultura",
+      "date": "2026-07-11"
+    }
+  ]
+}
