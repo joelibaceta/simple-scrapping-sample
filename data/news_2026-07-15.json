@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-07-15",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Natalia Oreiro, actriz y cantante: “Lo más triste es la traición a uno mismo” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/natalia-oreiro-actriz-y-cantante-lo-mas-triste-es-la-traicion-a-uno-mismo-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "La CIDH, el PJ y el TC avalan cárcel de Castillo",
+      "link": "https://diariocorreo.pe/politica/la-cidh-el-pj-y-el-tc-avalan-carcel-de-castillo-noticia/",
+      "category": "Política",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "Ejecutivo publicó nueva metodología que actualizará fórmula para pagar bonos de la deuda agraria",
+      "link": "https://diariocorreo.pe/economia/ejecutivo-publico-nueva-metodologia-que-actualizara-formula-para-pagar-bonos-de-la-deuda-agraria-noticia/",
+      "category": "Economía",
+      "date": "2026-07-15"
+    },
+    {
+      "title": "El Niño: Cae en 1% el volumen de las agroexportaciones peruanas",
+      "link": "https://diariocorreo.pe/economia/el-nino-cae-en-1-el-volumen-de-las-agroexportaciones-peruanas-noticia/",
+      "category": "Economía",
+      "date": "2026-07-15"
+    }
+  ]
+}
