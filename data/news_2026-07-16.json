@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-07-16",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "La Libertad: Alias “Andy” dirigió dinamitazos para la banda “Los Pulpos”",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/la-libertad-alias-andy-dirigio-dinamitazos-para-la-banda-los-pulpos-noticia/",
+      "category": "La Libertad",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "“Las Cazadoras K -Pop” se despiden de los escenarios",
+      "link": "https://diariocorreo.pe/espectaculos/las-cazadoras-k-pop-se-despiden-de-los-escenarios-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Juan Diego Flórez confirma gala por los 15 años de Sinfonía por el Perú",
+      "link": "https://diariocorreo.pe/espectaculos/juan-diego-florez-confirma-gala-por-los-15-anos-de-sinfonia-por-el-peru-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "No hay gracia que salve a Castillo de prisión preventiva",
+      "link": "https://diariocorreo.pe/politica/no-hay-gracia-que-salve-a-castillo-de-prision-preventiva-noticia/",
+      "category": "Política",
+      "date": "2026-07-16"
+    },
+    {
+      "title": "Mateo Garrido Lecca, comediante de stand up y conductor de TV: “Yo sé qué tipo de humor hacer en redes y en señal abierta” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/mateo-garrido-lecca-comediante-de-stand-up-y-conductor-de-tv-yo-se-que-tipo-de-humor-hacer-en-redes-y-en-senal-abierta-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-07-16"
+    }
+  ]
+}
