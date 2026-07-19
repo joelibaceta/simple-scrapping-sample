@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-07-19",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Nuevo Congreso: Casi 20% sin título universitario",
+      "link": "https://diariocorreo.pe/politica/nuevo-congreso-casi-20-sin-titulo-universitario-noticia/",
+      "category": "Política",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Huancayo: en solo dos días detienen a 189 personas por cometer delitos",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-en-solo-dos-dias-detienen-a-189-personas-por-cometer-delitos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Roberto Sánchez en la lista infame de los que no reconocieron derrota",
+      "link": "https://diariocorreo.pe/politica/roberto-sanchez-en-la-lista-infame-de-los-que-no-reconocieron-derrota-noticia/",
+      "category": "Política",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Antiguo reloj de la Catedral de Huancayo vuelve a marcar el tiempo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/antiguo-reloj-de-la-catedral-de-huancayo-vuelve-a-marcar-el-tiempo-noticia/",
+      "category": "Huancayo",
+      "date": "2026-07-19"
+    },
+    {
+      "title": "Gobernador Regional de Junín encabeza acciones de ayuda, rescate y recuperación de cuerpos tras sismo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/gobernador-regional-de-junin-encabeza-acciones-de-ayuda-rescate-y-recuperacion-de-cuerpos-en-punpunya-noticia/",
+      "category": "Huancayo",
+      "date": "2026-07-19"
+    }
+  ]
+}
