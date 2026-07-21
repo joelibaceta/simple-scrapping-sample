@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-07-21",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Viviendas de interés no podrán ser puestas en alquiler durante cinco años",
+      "link": "https://diariocorreo.pe/economia/viviendas-de-interes-no-podran-ser-puestas-en-alquiler-durante-cinco-anos-noticia/",
+      "category": "Economía",
+      "date": "2026-07-21"
+    },
+    {
+      "title": "Del Barrio presenta a las protagonistas de su nueva telenovela",
+      "link": "https://diariocorreo.pe/espectaculos/del-barrio-presenta-a-las-protagonistas-de-su-nueva-telenovela-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-07-21"
+    }
+  ]
+}
