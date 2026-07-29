@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-07-29",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Jauja: falsos pasajeros acaban con la vida de taxista y se llevan su auto",
+      "link": "https://diariocorreo.pe/edicion/jauja-falsos-pasajeros-acaban-con-la-vida-de-taxista-y-se-llevan-su-auto-noticia/",
+      "category": "Edición",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Huancayo: Jovencita se estrella y mata a profesor deportista",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-jovencita-se-estrella-y-mata-a-profesor-deportista-noticia/",
+      "category": "Huancayo",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Nueva tragedia en Jauja: menor se ahoga en poza por rescatar a su mascota",
+      "link": "https://diariocorreo.pe/edicion/huancayo/nueva-tragedia-en-jauja-menor-se-ahoga-en-poza-por-rescatar-a-su-mascota-noticia/",
+      "category": "Huancayo",
+      "date": "2026-07-29"
+    },
+    {
+      "title": "Micro y pequeñas empresas tendrán bono para subir el sueldo mínimo a S/ 1,300",
+      "link": "https://diariocorreo.pe/economia/micro-y-pequenas-empresas-tendran-bono-para-subir-el-sueldo-minimo-a-s-1300-noticia/",
+      "category": "Economía",
+      "date": "2026-07-29"
+    }
+  ]
+}
