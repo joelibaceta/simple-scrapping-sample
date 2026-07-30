@@ -1,0 +1,48 @@
+{
+  "scrape_date": "2026-07-30",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Trujillo expuesto por retraso de obras en quebradas",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/trujillo-expuesto-por-retraso-de-obras-en-quebradas-noticia/",
+      "category": "La Libertad",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Huancayo: en solo 4 días caen 116 por conducir ebrios y 43 con requisitorias",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-en-solo-4-dias-caen-116-por-conducir-ebrios-y-43-con-requisitorias-noticia/",
+      "category": "Huancayo",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Gobierno buscará “reducir” y “racionalizar” feriados",
+      "link": "https://diariocorreo.pe/politica/gobierno-buscara-reducir-y-racionalizar-feriados-noticia/",
+      "category": "Política",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "El 65.6% de áreas de cultivo en el país dependen solo de las lluvias",
+      "link": "https://diariocorreo.pe/economia/el-656-de-areas-de-cultivo-en-el-pais-dependen-solo-de-las-lluvias-noticia/",
+      "category": "Economía",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Moquegua: Eligen 5,148 miembros de mesa para elecciones regionales y municipales",
+      "link": "https://diariocorreo.pe/edicion/tacna/moquegua-eligen-5148-miembros-de-mesa-para-elecciones-regionales-y-municipales-noticia/",
+      "category": "Tacna",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Más de 1,100 adventistas desarrollan actividades de voluntariado en Tacna",
+      "link": "https://diariocorreo.pe/edicion/tacna/mas-de-1100-adventistas-desarrollan-actividades-de-voluntariado-en-tacna-noticia/",
+      "category": "Tacna",
+      "date": "2026-07-30"
+    },
+    {
+      "title": "Fenómeno de “El Niño” perjudica gravemente la pesca artesanal en Ilo",
+      "link": "https://diariocorreo.pe/edicion/moquegua/fenomeno-de-el-nino-perjudica-gravemente-la-pesca-artesanal-en-ilo-noticia/",
+      "category": "Moquegua",
+      "date": "2026-07-30"
+    }
+  ]
+}
