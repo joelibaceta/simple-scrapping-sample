@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-08-01",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Mypes con grandes expectativas sobre las facultades legislativas que pedirá el Ejecutivo",
+      "link": "https://diariocorreo.pe/economia/mypes-con-grandes-expectativas-sobre-las-facultades-legislativas-que-pedira-el-ejecutivo-noticia/",
+      "category": "Economía",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Equipo Especial es el “brazo armado del Grupo Colina”",
+      "link": "https://diariocorreo.pe/politica/equipo-especial-es-el-brazo-armado-del-grupo-colina-noticia/",
+      "category": "Política",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Huancayo: prisión preventiva para mujer que atropelló",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-prision-preventiva-para-mujer-que-atropello-noticia/",
+      "category": "Huancayo",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Niño con síntomas de sarampión fue internado en hospital El Carmen",
+      "link": "https://diariocorreo.pe/edicion/huancayo/nino-con-sintomas-de-sarampion-fue-internado-en-hospital-el-carmen-noticia/",
+      "category": "Huancayo",
+      "date": "2026-08-01"
+    },
+    {
+      "title": "Juan Queque Lanchipa se corona campeón del Concurso Regional Tacna Sour 2026",
+      "link": "https://diariocorreo.pe/edicion/tacna/juan-queque-lanchipa-se-corona-campeon-del-concurso-regional-tacna-sour-2026-noticia/",
+      "category": "Tacna",
+      "date": "2026-08-01"
+    }
+  ]
+}
