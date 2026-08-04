@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-08-04",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Dengue: menores de edad entre los más afectados en La Libertad",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/dengue-menores-de-edad-entre-los-mas-afectados-en-la-libertad-noticia/",
+      "category": "La Libertad",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Mincetur: Prohibirán importación de productos elaborados mediante trabajo forzoso",
+      "link": "https://diariocorreo.pe/economia/mincetur-prohibiran-importacion-de-productos-elaborados-mediante-trabajo-forzoso-noticia/",
+      "category": "Economía",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Muere Charito Mistral, la mujer que le cantó a Tacna durante cinco décadas",
+      "link": "https://diariocorreo.pe/edicion/tacna/muere-charito-mistral-la-mujer-que-le-canto-a-tacna-durante-cinco-decadas-noticia/",
+      "category": "Tacna",
+      "date": "2026-08-04"
+    },
+    {
+      "title": "Tacna: Ordenan nueve meses de prisión preventiva para conductor de bus",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-ordenan-nueve-meses-de-prision-preventiva-para-conductor-de-bus-noticia/",
+      "category": "Tacna",
+      "date": "2026-08-04"
+    }
+  ]
+}
