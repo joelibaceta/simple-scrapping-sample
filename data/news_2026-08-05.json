@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-08-05",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Tamara Silva Bernaschina, escritora: “Me interesa que mis textos puedan escapar de las etiquetas” (Enrevista)",
+      "link": "https://diariocorreo.pe/cultura/tamara-silva-bernaschina-escritora-me-interesa-que-mis-textos-puedan-escapar-de-las-etiquetas-noticia/",
+      "category": "Cultura",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "El Ministerio de Economía y Finanzas completó su equipo de trabajo",
+      "link": "https://diariocorreo.pe/economia/el-ministerio-de-economia-y-finanzas-completo-su-equipo-de-trabajo-noticia/",
+      "category": "Economía",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Piden 120 días de sanción para Pérez Mallqui",
+      "link": "https://diariocorreo.pe/politica/piden-120-dias-de-sancion-para-perez-mallqui-noticia/",
+      "category": "Política",
+      "date": "2026-08-05"
+    },
+    {
+      "title": "Presidenta del PJ enrostra a Keiko en  ceremonia",
+      "link": "https://diariocorreo.pe/politica/presidenta-del-pj-enrostra-a-keiko-en-ceremonia-noticia/",
+      "category": "Política",
+      "date": "2026-08-05"
+    }
+  ]
+}
