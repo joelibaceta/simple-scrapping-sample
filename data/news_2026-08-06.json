@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-08-06",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Lista de Podemos Perú a la municipalidad de Trujillo sufre una baja",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/lista-de-podemos-peru-a-la-municipalidad-de-trujillo-sufre-una-baja-noticia/",
+      "category": "La Libertad",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Papa León XIV vuelve a su país en noviembre",
+      "link": "https://diariocorreo.pe/politica/papa-leon-xiv-vuelve-a-su-pais-en-noviembre-noticia/",
+      "category": "Política",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "El precio a futuro del cobre se está manteniendo sobre los $ 6 la libra",
+      "link": "https://diariocorreo.pe/economia/el-precio-a-futuro-del-cobre-se-esta-manteniendo-sobre-los-6-la-libra-noticia/",
+      "category": "Economía",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Andrea y Claudia Paz, escritoras: “Nuestros libros son una carta de amor al Perú” (Entrevista)",
+      "link": "https://diariocorreo.pe/cultura/literatura-infantil-andrea-y-claudia-paz-escritoras-nuestros-libros-son-una-carta-de-amor-al-peru-entrevista-chimoc-ninos-peru-penguin-noticia/",
+      "category": "Cultura",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Puno: Sentencian a 35 años de prisión al autor del robo y crimen de ciudadana alemana",
+      "link": "https://diariocorreo.pe/edicion/puno/puno-sentencian-a-35-anos-de-prision-al-autor-del-robo-y-crimen-de-ciudadana-alemana-noticia/",
+      "category": "Puno",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Sala de Apelaciones libera a los ocho militares acusados de masacre en Colcabamba",
+      "link": "https://diariocorreo.pe/edicion/huancayo/sala-de-apelaciones-libera-a-los-ocho-militares-acusados-de-masacre-en-colcabamba-noticia/",
+      "category": "Huancayo",
+      "date": "2026-08-06"
+    }
+  ]
+}
