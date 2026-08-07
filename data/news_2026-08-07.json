@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-08-07",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "El MEF mueve sus fichas en el Consejo Fiscal y en la Sunat, designando a sus nuevos titulares",
+      "link": "https://diariocorreo.pe/economia/el-mef-mueve-sus-fichas-en-el-consejo-fiscal-y-en-la-sunat-designando-a-sus-nuevos-titulares-noticia/",
+      "category": "Economía",
+      "date": "2026-08-07"
+    },
+    {
+      "title": "Moquegua: Fiscalía interviene por demora en entrega de ropa de abrigo donada",
+      "link": "https://diariocorreo.pe/edicion/moquegua/moquegua-fiscalia-interviene-por-demora-en-entrega-de-ropa-de-abrigo-donada-noticia/",
+      "category": "Moquegua",
+      "date": "2026-08-07"
+    }
+  ]
+}
