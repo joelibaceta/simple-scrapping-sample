@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-08-08",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Golpe de suerte: Betssy Chávez logra huir a México",
+      "link": "https://diariocorreo.pe/politica/golpe-de-suerte-betssy-chavez-logra-huir-a-mexico-noticia/",
+      "category": "Política",
+      "date": "2026-08-08"
+    },
+    {
+      "title": "Ministerio de Economía: Feriados se tomarán los lunes desde el 2027",
+      "link": "https://diariocorreo.pe/economia/ministerio-de-economia-feriados-se-tomaran-los-lunes-desde-el-2027-noticia/",
+      "category": "Economía",
+      "date": "2026-08-08"
+    }
+  ]
+}
