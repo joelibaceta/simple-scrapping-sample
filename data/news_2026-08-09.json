@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-08-09",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Vecinos de Palián denuncian presión: “multa de 20 soles si no reciben a Nolasco”",
+      "link": "https://diariocorreo.pe/edicion/huancayo/vecinos-de-palian-denuncian-presion-multa-de-20-soles-si-no-reciben-a-nolasco-noticia/",
+      "category": "Huancayo",
+      "date": "2026-08-09"
+    },
+    {
+      "title": "Al menos ocho jueces avalaron los errores del Equipo Especial Lava Jato",
+      "link": "https://diariocorreo.pe/politica/al-menos-ocho-jueces-avalaron-los-errores-del-equipo-especial-lava-jato-noticia/",
+      "category": "Política",
+      "date": "2026-08-09"
+    }
+  ]
+}
