@@ -1,0 +1,48 @@
+{
+  "scrape_date": "2026-08-15",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Salud: “Buen trato es un derecho fundamental”",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/salud-buen-trato-es-un-derecho-fundamental-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Desde hoy se aplica subsidio focalizado para el diésel que demandan los transportistas",
+      "link": "https://diariocorreo.pe/economia/desde-hoy-se-aplica-subsidio-focalizado-para-el-diesel-que-demandan-los-transportistas-noticia/",
+      "category": "Economía",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Gobierno permite que Guillermo Bermejo despida a su padre",
+      "link": "https://diariocorreo.pe/politica/gobierno-permite-que-guillermo-bermejo-despida-a-su-padre-noticia/",
+      "category": "Política",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Tacna: Rinden homenaje póstumo a Charito Mistral por aporte al criollismo",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-rinden-homenaje-postumo-a-charito-mistral-por-aporte-al-criollismo-nacional-noticia/",
+      "category": "Tacna",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Deficiente gasto de entidades en Moquegua para afrontar el Fenómeno El Niño",
+      "link": "https://diariocorreo.pe/edicion/moquegua/deficiente-gasto-de-entidades-en-moquegua-para-afrontar-el-fenomeno-el-nino-noticia/",
+      "category": "Moquegua",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Fenómeno El Niño ya impacta en los precios de la papa, tomate, ají y huevos",
+      "link": "https://diariocorreo.pe/economia/fenomeno-el-nino-ya-impacta-en-los-precios-de-la-papa-tomate-aji-y-huevos-noticia/",
+      "category": "Economía",
+      "date": "2026-08-15"
+    },
+    {
+      "title": "Refinerías elevaron precios del diésel y gasohol aún más que los del mercado internacional",
+      "link": "https://diariocorreo.pe/economia/refinerias-elevaron-precios-del-diesel-y-gasohol-aun-mas-que-los-del-mercado-internacional-noticia/",
+      "category": "Economía",
+      "date": "2026-08-15"
+    }
+  ]
+}
