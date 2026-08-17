@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-08-17",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Villa El Salvador será declarado en emergencia tras inundaciones por fuertes lluvias",
+      "link": "https://diariocorreo.pe/edicion/lima/villa-el-salvador-sera-declarado-en-emergencia-tras-inundaciones-por-fuertes-lluvias-noticia/",
+      "category": "Lima",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "Trabajadores del Congreso recibieron aumento salarial del 15% durante gestión de Fernando Rospigliosi",
+      "link": "https://diariocorreo.pe/politica/trabajadores-del-congreso-recibieron-aumento-salarial-del-15-durante-gestion-de-fernando-rospigliosi-noticia/",
+      "category": "Política",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "“Reelección encubierta”: alcaldes de Ate, SJL y Carabayllo buscan quedarse en el poder con candidaturas de familiares",
+      "link": "https://diariocorreo.pe/politica/reeleccion-encubierta-alcaldes-de-ate-sjl-y-carabayllo-impulsarian-candidaturas-de-sus-familiares-noticia/",
+      "category": "Política",
+      "date": "2026-08-17"
+    }
+  ]
+}
