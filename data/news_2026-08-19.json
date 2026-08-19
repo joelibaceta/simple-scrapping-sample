@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-08-19",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "El Gobierno anuncia reformas en el régimen del canon minero",
+      "link": "https://diariocorreo.pe/economia/el-gobierno-anuncia-reformas-en-el-regimen-del-canon-minero-noticia/",
+      "category": "Economía",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Huancayo: combi atropella y mata a niño de 2 años",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-combi-atropella-y-mata-a-nino-de-2-anos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Temblor en Lima: sismo de magnitud 4.8 se registró frente a Lurín",
+      "link": "https://diariocorreo.pe/edicion/lima/temblor-en-lima-sismo-de-magnitud-48-se-registro-frente-a-lurin-noticia/",
+      "category": "Lima",
+      "date": "2026-08-19"
+    }
+  ]
+}
