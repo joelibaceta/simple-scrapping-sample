@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-08-20",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Amanda Miguel, cantante y compositora: “Es una bendición que después de 46 años de carrera siga vigente” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/amanda-miguel-cantante-y-compositora-es-una-bendicion-que-despues-de-46-anos-de-carrera-siga-vigente-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Ventarrón tumba árbol y anciana salva de morir aplastada en el centro de Huancayo",
+      "link": "https://diariocorreo.pe/edicion/ventarron-tumba-arbol-y-anciana-salva-de-morir-aplastada-en-el-centro-de-huancayo-noticia/",
+      "category": "Edición",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Las AFP podrían abaratar las comisiones que cobran a sus afiliados",
+      "link": "https://diariocorreo.pe/economia/las-afp-podrian-abaratar-las-comisiones-que-cobran-a-sus-afiliados-noticia/",
+      "category": "Economía",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Ahora Nación pide la renuncia de Óscar Arriola",
+      "link": "https://diariocorreo.pe/politica/ahora-nacion-pide-la-renuncia-de-oscar-arriola-noticia/",
+      "category": "Política",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Cerrón enfrenta 2 juicios orales y 16 años de prisión",
+      "link": "https://diariocorreo.pe/politica/cerron-enfrenta-2-juicios-orales-y-16-anos-de-prision-noticia/",
+      "category": "Política",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Huellas y cámaras delatan a pareja que robaba casas en Huancayo",
+      "link": "https://diariocorreo.pe/edicion/huellas-y-camaras-delatan-a-pareja-que-robaba-casas-en-huancayo-noticia/",
+      "category": "Edición",
+      "date": "2026-08-20"
+    }
+  ]
+}
