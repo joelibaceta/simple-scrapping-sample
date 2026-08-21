@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-08-21",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Liga Departamental de Piura declara partidos de alto riesgo",
+      "link": "https://diariocorreo.pe/deportes/liga-departamental-de-piura-declara-partidos-de-alto-riesgo-noticia/",
+      "category": "Deportes",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Huancayo: tras riña lo matan de un ladrillazo en la cabeza",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-tras-rina-lo-matan-de-un-ladrillazo-en-la-cabeza-noticia/",
+      "category": "Huancayo",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Gobierno planteará reforma tributaria para simplificar procesos y dar estabilidad",
+      "link": "https://diariocorreo.pe/economia/gobierno-planteara-reforma-tributaria-para-simplificar-procesos-y-dar-estabilidad-noticia/",
+      "category": "Economía",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Premier Galarreta pide seis meses para exhibir resultados",
+      "link": "https://diariocorreo.pe/politica/premier-galarreta-pide-seis-meses-para-exhibir-resultados-noticia/",
+      "category": "Política",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Liga 1: Alianza Atlético sale a  toda máquina, pero sin público",
+      "link": "https://diariocorreo.pe/deportes/liga-1-alianza-atletico-sale-a-toda-maquina-pero-sin-publico-noticia/",
+      "category": "Deportes",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Huancayo: Arde almacén de la policía y decenas de vehículos termina en chatarra",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-arde-almacen-de-la-policia-y-decenas-de-vehiculos-termina-en-chatarra-noticia/",
+      "category": "Huancayo",
+      "date": "2026-08-21"
+    }
+  ]
+}
