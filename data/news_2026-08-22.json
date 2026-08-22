@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-08-22",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Alistan el pedido de facultades para este lunes 24",
+      "link": "https://diariocorreo.pe/politica/alistan-el-pedido-de-facultades-para-este-lunes-24-noticia/",
+      "category": "Política",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Huancayo: policías dan golpe a “Tía Rita” e incautan millones",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-policias-dan-golpe-a-tia-rita-e-incautan-millones-noticia/",
+      "category": "Huancayo",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "Ejecutivo oficializó el nombramiento de Julio Velarde al frente del directorio del BCR",
+      "link": "https://diariocorreo.pe/economia/ejecutivo-oficializo-el-nombramiento-de-julio-velarde-al-frente-del-directorio-del-bcr-noticia/",
+      "category": "Economía",
+      "date": "2026-08-22"
+    },
+    {
+      "title": "“Cementerio de vehículos calcinados” es depósito de la PNP",
+      "link": "https://diariocorreo.pe/edicion/huancayo/deposito-pnp-en-cementerio-de-vehiculos-calcinados-tras-incendio-noticia/",
+      "category": "Huancayo",
+      "date": "2026-08-22"
+    }
+  ]
+}
