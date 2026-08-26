@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-08-26",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Jesús Salazar Nishi, presidente del IDIS: “Los recursos se agotan y Junín debe generar valor agregado”",
+      "link": "https://diariocorreo.pe/edicion/huancayo/jesus-salazar-nishi-presidente-del-idis-los-recursos-se-agotan-y-junin-debe-generar-valor-agregado-noticia/",
+      "category": "Huancayo",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Petroperú: Tribunal Constitucional dejó al voto la demanda de la Defensoría del Pueblo",
+      "link": "https://diariocorreo.pe/economia/petroperu-tribunal-constitucional-dejo-al-voto-la-demanda-de-la-defensoria-del-pueblo-noticia/",
+      "category": "Economía",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Myriam Hernández, cantante: “Hay mucho público para la música romántica” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/myriam-hernandez-cantante-hay-mucho-publico-para-la-musica-romantica-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-08-26"
+    }
+  ]
+}
