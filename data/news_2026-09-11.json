@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-09-11",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Relación Perú-EE.UU. en punto máximo tras visita de Marco Rubio",
+      "link": "https://diariocorreo.pe/politica/relacion-peru-eeuu-en-punto-maximo-tras-visita-de-marco-rubio-noticia/",
+      "category": "Política",
+      "date": "2026-09-11"
+    },
+    {
+      "title": "Las municipalidades son el cuello de botella de la inversión pública",
+      "link": "https://diariocorreo.pe/economia/las-municipalidades-son-el-cuello-de-botella-de-la-inversion-publica-noticia/",
+      "category": "Economía",
+      "date": "2026-09-11"
+    }
+  ]
+}
