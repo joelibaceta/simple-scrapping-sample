@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-09-13",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Huancayo: Precio del azúcar subió hasta 60 soles por saco",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-precio-del-azucar-subio-hasta-60-soles-por-saco-noticia/",
+      "category": "Huancayo",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "Gutiérrez, el defensor que se olvidó del pueblo",
+      "link": "https://diariocorreo.pe/politica/gutierrez-el-defensor-que-se-olvido-del-pueblo-noticia/",
+      "category": "Política",
+      "date": "2026-09-13"
+    },
+    {
+      "title": "La Merced: motorista muere en el día de su cumpleaños",
+      "link": "https://diariocorreo.pe/edicion/huancayo/la-merced-motorista-muere-en-el-dia-de-su-cumpleanos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-09-13"
+    }
+  ]
+}
