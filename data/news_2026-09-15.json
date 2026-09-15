@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-09-15",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Tensión en Medio Oriente eleva precio del petróleo y presiona al alza al dólar",
+      "link": "https://diariocorreo.pe/economia/tension-en-medio-oriente-eleva-precio-del-petroleo-y-presiona-al-alza-al-dolar-noticia/",
+      "category": "Economía",
+      "date": "2026-09-15"
+    },
+    {
+      "title": "La Oroya: Choque frontal deja un muerto y dos heridos en la Carretera Central (VIDEO)",
+      "link": "https://diariocorreo.pe/edicion/huancayo/la-oroya-choque-frontal-deja-un-muerto-y-dos-heridos-en-la-carretera-central-noticia/",
+      "category": "Huancayo",
+      "date": "2026-09-15"
+    }
+  ]
+}
