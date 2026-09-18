@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-09-18",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Fiscalía archiva investigación sobre el homicidio de Andrea Vidal",
+      "link": "https://diariocorreo.pe/politica/la-fiscalia-archiva-caso-andrea-vidal-noticia/",
+      "category": "Política",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Exportación de oro ilegal crece entre enero y junio, pero cae la de origen legal",
+      "link": "https://diariocorreo.pe/economia/exportacion-de-oro-ilegal-crece-entre-enero-y-junio-pero-cae-la-de-origen-legal-noticia/",
+      "category": "Economía",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Diario Correo: De la rotoplana a la era offset y digital",
+      "link": "https://diariocorreo.pe/edicion/piura/diario-correo-de-la-rotoplana-a-la-era-offset-y-digital-noticia/",
+      "category": "Piura",
+      "date": "2026-09-18"
+    },
+    {
+      "title": "Homenaje a la promoción 70 de la Escuela de Bellas Artes Ignacio Merino de Piura",
+      "link": "https://diariocorreo.pe/cultura/homenaje-a-la-promocion-70-de-la-escuela-de-bellas-artes-ignacio-merino-de-piura-noticia/",
+      "category": "Cultura",
+      "date": "2026-09-18"
+    }
+  ]
+}
