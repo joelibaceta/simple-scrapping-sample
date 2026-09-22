@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-09-22",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Floristas pierden 50% de su producción por heladas en Huancayo",
+      "link": "https://diariocorreo.pe/edicion/floristas-pierden-50-de-su-produccion-por-heladas-en-huancayo-noticia/",
+      "category": "Edición",
+      "date": "2026-09-22"
+    },
+    {
+      "title": "Huancayo: Arzobispo pide frenar violencia en hogares e II.EE.",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-arzobispo-pide-frenar-violencia-en-hogares-e-iiee-noticia/",
+      "category": "Huancayo",
+      "date": "2026-09-22"
+    }
+  ]
+}
