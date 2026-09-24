@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-09-24",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "COAR Junín: padres dan ultimátum por obra paralizada",
+      "link": "https://diariocorreo.pe/edicion/huancayo/coar-junin-padres-dan-ultimatum-por-obra-paralizada-noticia/",
+      "category": "Huancayo",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Keiko Fujimori se reúne con secretario general de la ONU",
+      "link": "https://diariocorreo.pe/politica/keiko-fujimori-se-reune-con-secretario-general-de-la-onu-noticia/",
+      "category": "Política",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Ministro Álvarez Miranda a Janet Tello: PJ sí persigue a militares",
+      "link": "https://diariocorreo.pe/politica/ministro-alvarez-miranda-a-janet-tello-pj-si-persigue-a-militares-noticia/",
+      "category": "Política",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "Junín: Después de 34 años, familias recuperan a sus seres queridos",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-despues-de-34-anos-familias-recuperan-a-sus-seres-queridos-noticia/",
+      "category": "Huancayo",
+      "date": "2026-09-24"
+    },
+    {
+      "title": "En una sola noche, delincuentes roban tienda y oficinas en pleno centro de Huancayo",
+      "link": "https://diariocorreo.pe/edicion/huancayo/en-una-sola-noche-delincuentes-roban-tienda-y-oficinas-en-pleno-centro-de-huancayo-noticia/",
+      "category": "Huancayo",
+      "date": "2026-09-24"
+    }
+  ]
+}
