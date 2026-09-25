@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-09-25",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Huancayo: Ventarrón provoca que unos 241 escolares de la I.E. Julio C. Tello estudien a la intemperie",
+      "link": "https://diariocorreo.pe/edicion/huancayo/expuestos-al-peligro-estudian-241-escolares-de-la-ie-julio-c-tello-noticia/",
+      "category": "Huancayo",
+      "date": "2026-09-25"
+    },
+    {
+      "title": "Arequipa: Yarabamba en el ojo jurídico tras reincorporación de candidato distrital",
+      "link": "https://diariocorreo.pe/edicion/arequipa/arequipa-yarabamba-en-el-ojo-juridico-tras-reincorporacion-de-candidato-distrital-noticia/",
+      "category": "Arequipa",
+      "date": "2026-09-25"
+    }
+  ]
+}
