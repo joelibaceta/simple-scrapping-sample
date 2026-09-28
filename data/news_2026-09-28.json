@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-09-28",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Andre, cantante y compositora: “Mi nominación al Latin Grammy permitirá que mi música llegue a más gente” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/andre-cantante-y-compositora-mi-nominacion-al-latin-grammy-permitira-que-mi-musica-llegue-a-mas-gente-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Junín: Fisuras en zapatas y desprendimiento de concreto en el COAR",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-fisuras-en-zapatas-y-desprendimiento-de-concreto-en-el-coar-noticia/",
+      "category": "Huancayo",
+      "date": "2026-09-28"
+    },
+    {
+      "title": "Más de 4 mil gestantes padecen por trastorno hipertensivo en el Hospital El Carmen",
+      "link": "https://diariocorreo.pe/edicion/huancayo/mas-de-4-mil-gestantes-padecen-por-trastorno-hipertensivo-en-el-hospital-el-carmen-noticia/",
+      "category": "Huancayo",
+      "date": "2026-09-28"
+    }
+  ]
+}
