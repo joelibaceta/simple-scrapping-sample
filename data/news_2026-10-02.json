@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-10-02",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Jhonsson Cruz acepta crimen y lo condenan a 35 años",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/jhonsson-cruz-acepta-crimen-y-lo-condenan-a-35-anos-trujillo-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "La Libertad: Más de 80 mil pobladores de Otuzco beneficiados con nuevos equipos biomédicos",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/mas-de-80-mil-pobladores-de-otuzco-beneficiados-con-nuevos-equipos-biomedicos-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-10-02"
+    },
+    {
+      "title": "Los precios con tendencia al alza en setiembre y la inflación anualizada sube a 4.55%",
+      "link": "https://diariocorreo.pe/economia/los-precios-con-tendencia-al-alza-en-setiembre-y-la-inflacion-anualizada-sube-a-455-noticia/",
+      "category": "Economía",
+      "date": "2026-10-02"
+    }
+  ]
+}
