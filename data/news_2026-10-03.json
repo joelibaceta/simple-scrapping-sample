@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-10-03",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Más empresas que no pueden pagar sus deudas optan por un proceso de liquidación",
+      "link": "https://diariocorreo.pe/economia/mas-empresas-que-no-pueden-pagar-sus-deudas-optan-por-un-proceso-de-liquidacion-noticia/",
+      "category": "Economía",
+      "date": "2026-10-03"
+    },
+    {
+      "title": "Despliegan material electoral y entregan locales de votación",
+      "link": "https://diariocorreo.pe/edicion/huancayo/despliegan-material-electoral-y-entregan-locales-de-votacion-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-03"
+    }
+  ]
+}
