@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-10-05",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "La Libertad: Tres fallecidos y quince heridos en dos accidentes de tránsito",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/tres-fallecidos-y-quince-heridos-en-dos-accidentes-de-transito-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-10-05"
+    },
+    {
+      "title": "Junín: Población afectada por los sismos vota con desconfianza por promesas incumplidas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-tras-los-sismos-poblacion-vota-con-desconfianza-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-05"
+    }
+  ]
+}
