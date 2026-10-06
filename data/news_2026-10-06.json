@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-10-06",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "ERM 2026: cuatro fuerzas políticas se reparten las nueve provincias en Junín",
+      "link": "https://diariocorreo.pe/edicion/huancayo/junin-cuatro-fuerzas-politicas-se-reparten-las-nueve-provincias-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Miranda Capurro, influencer y cantante: “Cuando me propongo algo, me gusta hacer las cosas bien” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/miranda-capurro-influencer-y-cantante-cuando-me-propongo-algo-me-gusta-hacer-las-cosas-bien-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "La deuda pública debería bajar a menos del 30% del PBI",
+      "link": "https://diariocorreo.pe/economia/la-deuda-publica-deberia-bajar-a-menos-del-30-del-pbi-noticia/",
+      "category": "Economía",
+      "date": "2026-10-06"
+    },
+    {
+      "title": "Tacna: Roban S/ 18 mil a granjeros con balazos y PNP captura a miembro de banda",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-roban-s-18-mil-granjeros-con-balazos-y-pnp-captura-a-miembro-de-banda-noticia/",
+      "category": "Tacna",
+      "date": "2026-10-06"
+    }
+  ]
+}
