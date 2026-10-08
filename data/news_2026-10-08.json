@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-10-08",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "El Ministerio de Economía alista medidas para evitar que la economía se enfríe",
+      "link": "https://diariocorreo.pe/economia/el-ministerio-de-economia-alista-medidas-para-evitar-que-la-economia-se-enfrie-noticia/",
+      "category": "Economía",
+      "date": "2026-10-08"
+    },
+    {
+      "title": "Un total de 577 casos del virus de pies, manos y boca en la región Junín",
+      "link": "https://diariocorreo.pe/edicion/huancayo/un-total-de-577-casos-del-virus-de-pies-manos-y-boca-en-la-region-junin-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-08"
+    }
+  ]
+}
