@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-10-09",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "La falta de información no ayuda a los jóvenes a elegir una carrera",
+      "link": "https://diariocorreo.pe/economia/la-falta-de-informacion-no-ayuda-a-los-jovenes-a-elegir-una-carrera-noticia/",
+      "category": "Economía",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Jay Wheeler, la voz favorita de la escena urbana, llega a Lima",
+      "link": "https://diariocorreo.pe/espectaculos/jay-wheeler-la-voz-favorita-de-la-escena-urbana-llega-a-lima-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "Nahuel Pennisi, cantante y compositor: “La música me ha llevado a conocer personas que creía inalcanzables” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/nahuel-pennisi-cantante-y-compositor-la-musica-me-ha-llevado-a-conocer-personas-que-creia-inalcanzables-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-10-09"
+    },
+    {
+      "title": "María Paz Blanco, psicóloga y escritora: “Somos muy duros con nosotros mismos cuando cometemos errores”   (Entrevista)",
+      "link": "https://diariocorreo.pe/cultura/maria-paz-blanco-psicologa-y-escritora-somos-muy-duros-con-nosotros-mismos-cuando-cometemos-errores-noticia/",
+      "category": "Cultura",
+      "date": "2026-10-09"
+    }
+  ]
+}
