@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-10-15",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "La Libertad: Empresarios exigen resultados concretos contra la criminalidad",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/la-libertad-empresarios-exigen-resultados-concretos-contra-la-criminalidad-noticia/",
+      "category": "La Libertad",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Se inicia la gran fiesta del libro:  “Lima Lee 2026″",
+      "link": "https://diariocorreo.pe/cultura/se-inicia-la-gran-fiesta-del-libro-lima-lee-2026-noticia/",
+      "category": "Cultura",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Acusado de corrupción contrataría a “Chibolín”",
+      "link": "https://diariocorreo.pe/politica/acusado-de-corrupcion-contrataria-a-chibolin-noticia/",
+      "category": "Política",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Asociación de Consumidores de Gas critica a empresa que transporta gas de Camisea a Lima",
+      "link": "https://diariocorreo.pe/economia/asociacion-de-consumidores-de-gas-cuestiona-a-empresa-que-transporta-gas-desde-camisea-noticia/",
+      "category": "Economía",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Huancayo: Salvaje ataque con combustible deja quemados a nueve servidores municipales",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-salvaje-ataque-deja-quemados-a-9-servidores-municipales-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-15"
+    },
+    {
+      "title": "Bruno Ascenzo, actor, director de cine y teatro: “Cuando se estrena una película, las críticas son parte del juego” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/bruno-ascenzo-actor-director-de-cine-y-teatro-cuando-se-estrena-una-pelicula-las-criticas-son-parte-del-juego-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-10-15"
+    }
+  ]
+}
