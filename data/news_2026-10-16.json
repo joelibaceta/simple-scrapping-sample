@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-10-16",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Economía peruana crece menos en agosto  por la caída de la producción minera",
+      "link": "https://diariocorreo.pe/economia/economia-peruana-crece-menos-en-agosto-por-la-caida-de-la-produccion-minera-noticia/",
+      "category": "Economía",
+      "date": "2026-10-16"
+    },
+    {
+      "title": "Niños huancaínos mueren intoxicados junto a familia en Estados Unidos",
+      "link": "https://diariocorreo.pe/edicion/ninos-huancainos-mueren-intoxicados-junto-a-familia-en-estados-unidos-noticia/",
+      "category": "Edición",
+      "date": "2026-10-16"
+    }
+  ]
+}
