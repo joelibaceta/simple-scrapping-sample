@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-10-17",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Trujillo: Iván Villacorta pide disculpas tras accidente",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/ivan-villacorta-pide-disculpas-tras-accidente-trujillo-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-10-17"
+    },
+    {
+      "title": "Facultades caen a punto muerto en el Senado",
+      "link": "https://diariocorreo.pe/politica/facultades-caen-a-punto-muerto-en-el-senado-noticia/",
+      "category": "Política",
+      "date": "2026-10-17"
+    }
+  ]
+}
