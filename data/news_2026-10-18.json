@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-10-18",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Huancayo: En ‘Casa del humo’ atrapan a abuela y jóvenes con droga",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-en-casa-del-humo-atrapan-a-abuela-y-jovenes-con-droga-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Buen Gobierno, Ahora Nación y Obras “están jugando el partido del comunismo”",
+      "link": "https://diariocorreo.pe/politica/buen-gobierno-ahora-nacion-y-obras-estan-jugando-el-partido-del-comunismo-noticia/",
+      "category": "Política",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Huancayo:  Recursos aún no están seguros para IEs afectadas por el sismo",
+      "link": "https://diariocorreo.pe/edicion/huancayo-recursos-aun-no-estan-seguros-para-ies-afectadas-por-el-sismo-noticia/",
+      "category": "Edición",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "Tacna: Minsur extraerá minerales de la mina Pucamarca solo hasta el 2028",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-minsur-extraera-minerales-de-la-mina-pucamarca-solo-hasta-el-2028-noticia/",
+      "category": "Tacna",
+      "date": "2026-10-18"
+    },
+    {
+      "title": "De Huaral a la victoria: Mr. Nik, imitador de Adrián Barilari, gana “Yo Soy 2026″",
+      "link": "https://diariocorreo.pe/espectaculos/de-huaral-a-la-victoria-yo-soy-2026-mr-nik-imitador-de-adrian-barilari-se-corona-campeon-yo-soy-2026rata-blanca-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-10-18"
+    }
+  ]
+}
