@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-10-19",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Jauja: conductor muere en choque de ómnibus y mototaxi",
+      "link": "https://diariocorreo.pe/edicion/huancayo/jauja-chofer-muere-en-choque-de-omnibus-y-mototaxi-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-19"
+    },
+    {
+      "title": "Alcalde electo de Ate, Manuel Vidal, es investigado por lavado de activos y enriquecimiento ilícito",
+      "link": "https://diariocorreo.pe/edicion/lima/alcalde-electo-de-ate-manuel-vidal-es-investigado-por-lavado-de-activos-y-enriquecimiento-ilicito-noticia/",
+      "category": "Lima",
+      "date": "2026-10-19"
+    }
+  ]
+}
