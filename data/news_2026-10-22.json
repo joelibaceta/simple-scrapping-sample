@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-10-22",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Ángela Delgado, directora de Desarrollo y Comunicaciones del Hay Festival Arequipa: “Arequipa podría ser la capital cultural del mundo” (Entrevis...",
+      "link": "https://diariocorreo.pe/cultura/cultura-angela-delgado-directora-de-desarrollo-y-comunicaciones-del-hay-festival-arequipa-arequipa-podria-ser-la-capital-cultural-del-mundo-entrevista-literatura-arte-musica-ciencia-deporte-hay-festival-arequipa-mvll-noticia/",
+      "category": "Cultura",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "“Mega Niño” encontrará a la provincia de Huancayo sin plan de contingencia",
+      "link": "https://diariocorreo.pe/edicion/huancayo/contraloria-advierte-que-la-provincia-de-huancayo-no-estaria-preparada-para-el-mega-nino-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-22"
+    },
+    {
+      "title": "Siete de cada diez jóvenes en Perú tienen empleo informal",
+      "link": "https://diariocorreo.pe/economia/siete-de-cada-diez-jovenes-en-peru-tienen-empleo-informal-noticia/",
+      "category": "Economía",
+      "date": "2026-10-22"
+    }
+  ]
+}
