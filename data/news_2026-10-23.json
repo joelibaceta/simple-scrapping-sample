@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-10-23",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Impulsan acciones conjuntas para atender la salud mental y el aprendizaje escolar en Huánuco",
+      "link": "https://diariocorreo.pe/edicion/huanuco/impulsan-acciones-conjuntas-para-atender-la-salud-mental-y-el-aprendizaje-escolar-en-huanuco-noticia/",
+      "category": "Huánuco",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Oposición: 6 fracturas en menos de 3 meses",
+      "link": "https://diariocorreo.pe/politica/oposicion-6-fracturas-en-menos-de-3-meses-noticia/",
+      "category": "Política",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Junín: Casos de dengue aumentan en 22% y “El Niño” empeoraría el panorama en la región",
+      "link": "https://diariocorreo.pe/edicion/huancayo/el-80-de-casos-de-dengue-en-la-region-junin-es-de-chanchamayo-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-23"
+    }
+  ]
+}
