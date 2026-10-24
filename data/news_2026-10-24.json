@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-10-24",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Ley sobre facultades enfrenta a las cámaras",
+      "link": "https://diariocorreo.pe/politica/ley-sobre-facultades-enfrenta-a-las-camaras-noticia/",
+      "category": "Política",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Jorge Gavidia: “Nunca me sentí totalmente consolidado” en el PBG",
+      "link": "https://diariocorreo.pe/politica/jorge-gavidia-nunca-me-senti-totalmente-consolidado-en-el-pbg-noticia/",
+      "category": "Política",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Productores listos para sembrar tras una semana de lluvias",
+      "link": "https://diariocorreo.pe/edicion/huancayo/productores-listos-para-sembrar-tras-una-semana-de-lluvias-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-24"
+    },
+    {
+      "title": "Devaluación del peso chileno frente al sol afecta el movimiento económico en Tacna",
+      "link": "https://diariocorreo.pe/edicion/tacna/devaluacion-del-peso-chileno-frente-al-sol-perjudica-a-todos-en-tacna-noticia/",
+      "category": "Tacna",
+      "date": "2026-10-24"
+    }
+  ]
+}
