@@ -1,0 +1,18 @@
+{
+  "scrape_date": "2026-10-27",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "MEF confía captar $ 55 mil millones de inversión mediante la modalidad de APP",
+      "link": "https://diariocorreo.pe/economia/mef-confia-captar-55-mil-millones-de-inversion-mediante-la-modalidad-de-app-noticia/",
+      "category": "Economía",
+      "date": "2026-10-27"
+    },
+    {
+      "title": "Defensa Civil: “Junín se prepara para el peor escenario por el Fenómeno El Niño”",
+      "link": "https://diariocorreo.pe/edicion/huancayo/defensa-civil-junin-se-prepara-para-el-peor-escenario-por-el-fenomeno-el-nino-noticia/",
+      "category": "Huancayo",
+      "date": "2026-10-27"
+    }
+  ]
+}
