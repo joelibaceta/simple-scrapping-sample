@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-11-01",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Álvarez Miranda: La oposición busca “que la presidenta no tenga ningún resultado”",
+      "link": "https://diariocorreo.pe/politica/alvarez-miranda-la-oposicion-busca-que-la-presidenta-no-tenga-ningun-resultado-noticia/",
+      "category": "Política",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "Pichanaqui: “marca” recibe más de 25 años de cárcel",
+      "link": "https://diariocorreo.pe/edicion/huancayo/pichanaqui-marca-recibe-mas-de-25-anos-de-carcel-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "CESA logra importante victoria y clasifica a octavos de final de la Copa Perú",
+      "link": "https://diariocorreo.pe/edicion/huancayo/cesa-logra-importante-victoria-y-clasifica-a-octavos-de-final-de-la-copa-peru-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-01"
+    },
+    {
+      "title": "Miles abarrotan calles de Huancayo por Halloween",
+      "link": "https://diariocorreo.pe/edicion/huancayo/miles-abarrotan-calles-de-huancayo-por-halloween-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-01"
+    }
+  ]
+}
