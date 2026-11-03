@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-11-03",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Cantante Jeanette anuncia segundo concierto por sus 50 años de carrera",
+      "link": "https://diariocorreo.pe/espectaculos/cantante-jeanette-anuncia-segundo-concierto-por-sus-50-anos-de-carrera-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "La Libertad: Cae “Goku” y desarticulan presunta organización criminal en Pataz (VIDEO)",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/cae-goku-y-desarticulan-presunta-organizacion-criminal-en-pataz-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "UGEL Huancayo acumula 444 alertas de violencia escolar y déficit de personal",
+      "link": "https://diariocorreo.pe/edicion/huancayo/ugel-huancayo-acumula-444-alertas-de-violencia-escolar-y-deficit-de-personal-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "MPH descarta indemnizar a transportistas por reestructuración de rutas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/mph-descarta-indemnizar-a-transportistas-por-reestructuracion-de-rutas-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "Taemin, ídolo coreano de k-pop, este viernes 6 en el Arena Monumental",
+      "link": "https://diariocorreo.pe/espectaculos/taemin-idolo-coreano-de-k-pop-este-viernes-6-en-el-arena-monumental-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-11-03"
+    },
+    {
+      "title": "La laguna de Aricota, una maravilla natural para el mundo entero",
+      "link": "https://diariocorreo.pe/edicion/tacna/tacna-laguna-de-aricota-se-pone-en-vitrina-con-nuevos-bungalows-noticia/",
+      "category": "Tacna",
+      "date": "2026-11-03"
+    }
+  ]
+}
