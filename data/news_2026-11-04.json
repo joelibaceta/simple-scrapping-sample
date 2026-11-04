@@ -1,0 +1,36 @@
+{
+  "scrape_date": "2026-11-04",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Huancavelica: Sujeto confiesa crimen de pareja y de su propio hijo",
+      "link": "https://diariocorreo.pe/edicion/huancavelica/huancavelica-sujeto-confiesa-crimen-de-pareja-y-de-su-propio-hijo-noticia/",
+      "category": "Huancavelica",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Pisco: pescadores artesanales de San Andrés salen a las calles y marchan en defensa de la pesca",
+      "link": "https://diariocorreo.pe/edicion/ica/pisco-pescadores-artesanales-de-san-andres-salen-a-las-calles-y-marchan-en-defensa-de-la-pesca-noticia/",
+      "category": "Ica",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Alfonso López-Chau a juicio oral por Caso UNI",
+      "link": "https://diariocorreo.pe/politica/alfonso-lopez-chau-a-juicio-oral-por-caso-uni-noticia/",
+      "category": "Política",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "El triunfo se le escapa al ADT al último minuto y empata con las ‘Aguilas de Cutervo’",
+      "link": "https://diariocorreo.pe/deportes/el-triunfo-se-le-escapa-al-adt-al-ultimo-minuto-y-empata-con-las-aguilas-de-cutervo-noticia/",
+      "category": "Deportes",
+      "date": "2026-11-04"
+    },
+    {
+      "title": "Huancayo: “Cuando sube el combustible sube todo”",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-cuando-sube-el-combustible-sube-todo-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-04"
+    }
+  ]
+}
