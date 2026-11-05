@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-11-05",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Fiscalía lapida informes de Alberto Beingolea al GORE Callao",
+      "link": "https://diariocorreo.pe/politica/fiscalia-lapida-informes-de-alberto-beingolea-al-gore-callao-noticia/",
+      "category": "Política",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "BCR advierte que ciberataques son un gran riesgo para el sistema financiero digital",
+      "link": "https://diariocorreo.pe/economia/bcr-advierte-que-ciberataques-son-un-gran-riesgo-para-el-sistema-financiero-digital-noticia/",
+      "category": "Economía",
+      "date": "2026-11-05"
+    },
+    {
+      "title": "Mimy y Tony Succar: “Nunca pensamos que llegaríamos tan lejos con nuestro documental” (Entrevista)",
+      "link": "https://diariocorreo.pe/espectaculos/mimy-y-tony-succar-nunca-pense-que-llegariamos-tan-lejos-con-nuestro-documental-noticia/",
+      "category": "Espectáculos",
+      "date": "2026-11-05"
+    }
+  ]
+}
