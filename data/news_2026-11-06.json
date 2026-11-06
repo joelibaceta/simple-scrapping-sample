@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-11-06",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Keiko Fujimori al país: “Tenemos un rumbo claro”",
+      "link": "https://diariocorreo.pe/politica/keiko-fujimori-al-pais-tenemos-un-rumbo-claro-noticia/",
+      "category": "Política",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Niño Costero: Más de 600 mil mypes tendrán problema para financiarse",
+      "link": "https://diariocorreo.pe/economia/nino-costero-mas-de-600-mil-mypes-tendran-problema-para-financiarse-noticia/",
+      "category": "Economía",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Huancayo: roban oficina de Criminalística de PNP e inmobiliaria",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-roban-oficina-de-criminalistica-de-pnp-e-inmobiliaria-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Huancayo: Se quejan por falta de especialistas en hospital El Carmen",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-se-quejan-por-falta-de-especialistas-en-hospital-el-carmen-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-06"
+    }
+  ]
+}
