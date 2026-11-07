@@ -1,0 +1,30 @@
+{
+  "scrape_date": "2026-11-07",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "JNE no entregará credenciales de alcalde a López-Aliaga",
+      "link": "https://diariocorreo.pe/politica/jne-no-entregara-credenciales-de-alcalde-a-lopez-aliaga-noticia/",
+      "category": "Política",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "La Libertad: Delincuentes atacan pollería en pleno centro de Cartavio (VIDEO)",
+      "link": "https://diariocorreo.pe/edicion/la-libertad/delincuentes-atacan-polleria-en-pleno-centro-de-cartavio-la-libertad-peru-noticia/",
+      "category": "La Libertad",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "Huancayo: Sueldan almacén de hospital El Carmen por falta de pago de alquiler",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-sueldan-almacen-de-hospital-el-carmen-por-falta-de-pago-de-alquiler-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-07"
+    },
+    {
+      "title": "Encuesta del BCR: La confianza de los empresarios retrocede otra vez",
+      "link": "https://diariocorreo.pe/economia/encuesta-del-bcr-la-confianza-de-los-empresarios-retrocede-otra-vez-noticia/",
+      "category": "Economía",
+      "date": "2026-11-07"
+    }
+  ]
+}
