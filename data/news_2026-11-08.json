@@ -1,0 +1,42 @@
+{
+  "scrape_date": "2026-11-08",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Huancayo: joven se electrocuta y puede perder una pierna",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-joven-se-electrocuta-y-puede-perder-una-pierna-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Bruce cuestiona decisión tardía del JNE: “Los electores hubieran tomado una mejor decisión”",
+      "link": "https://diariocorreo.pe/politica/bruce-cuestiona-decision-tardia-al-jne-los-electores-hubieran-tomado-una-mejor-decision-noticia/",
+      "category": "Política",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Caso López Aliaga: decisión del JNE recibe respaldo",
+      "link": "https://diariocorreo.pe/politica/caso-lopez-aliaga-decision-del-jne-recibe-respaldo-noticia/",
+      "category": "Política",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "León XIV en el Perú: el libro que revive la historia del Papa en el norte del país",
+      "link": "https://diariocorreo.pe/edicion/piura/leon-xiv-en-el-peru-el-libro-que-revive-la-historia-del-papa-en-el-norte-del-pais-noticia/",
+      "category": "Piura",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "“Mi esposo entró caminando a EsSalud y ahora me lo llevo en ataúd”",
+      "link": "https://diariocorreo.pe/edicion/huancayo/mi-esposo-entro-caminando-a-essalud-y-ahora-me-lo-llevo-en-ataud-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-08"
+    },
+    {
+      "title": "Martín Chambi vuelve a las librerías con imágenes inéditas y un homenaje a su legado",
+      "link": "https://diariocorreo.pe/cultura/libros-martin-chambi-vuelve-a-las-librerias-con-imagenes-ineditas-y-un-homenaje-a-su-legado-arte-penguin-random-house-fotos-noticia/",
+      "category": "Cultura",
+      "date": "2026-11-08"
+    }
+  ]
+}
