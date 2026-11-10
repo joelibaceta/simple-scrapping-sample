@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-11-10",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Policía Nacional rescata en Huancayo a menor por la que pedían unos 7 mil soles",
+      "link": "https://diariocorreo.pe/edicion/huancayo/policia-nacional-rescata-en-huancayo-a-menor-por-la-que-pedian-unos-7-mil-soles-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Agroexportación debe seguir incluyendo a la zona andina en su cadena de valor",
+      "link": "https://diariocorreo.pe/economia/agroexportacion-debe-seguir-incluyendo-a-la-zona-andina-en-su-cadena-de-valor-noticia/",
+      "category": "Economía",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Huancayo: Sarampión suma 14 casos y alertan por contagios sin nexo epidemiológico",
+      "link": "https://diariocorreo.pe/edicion/huancayo/huancayo-sarampion-suma-14-casos-y-alertan-por-contagios-sin-nexo-epidemiologico-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-10"
+    }
+  ]
+}
