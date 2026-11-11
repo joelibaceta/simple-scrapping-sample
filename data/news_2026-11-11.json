@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-11-11",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Papa León XIV: así será el primer recorrido del sumo pontífice en Lima",
+      "link": "https://diariocorreo.pe/politica/papa-leon-xiv-asi-sera-el-primer-recorrido-del-sumo-pontifice-en-lima-noticia/",
+      "category": "Política",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Tribunal Constitucional vera mañana demanda contra prórroga del Reinfo",
+      "link": "https://diariocorreo.pe/economia/tribunal-constitucional-vera-manana-demanda-contra-prorroga-del-reinfo-noticia/",
+      "category": "Economía",
+      "date": "2026-11-11"
+    },
+    {
+      "title": "Perú: el país bendecido con la llegada de tres papas",
+      "link": "https://diariocorreo.pe/edicion/huancayo/peru-el-pais-bendecido-con-la-llegada-de-tres-papas-noticia/",
+      "category": "Huancayo",
+      "date": "2026-11-11"
+    }
+  ]
+}
