@@ -1,0 +1,24 @@
+{
+  "scrape_date": "2026-11-12",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "El Niño: No se racionará la energía eléctrica, pero subirá tarifa por mayor uso del diésel",
+      "link": "https://diariocorreo.pe/economia/el-nino-no-se-racionara-la-energia-electrica-pero-subira-tarifa-por-mayor-uso-del-diesel-noticia/",
+      "category": "Economía",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Papa León XIV: Hoy delegación de Junín se reúne con el sumo pontífice",
+      "link": "https://diariocorreo.pe/edicion/en-junin-tambien-se-vive-la-emocionante-visita-del-papa-leon-xiv-noticia/",
+      "category": "Edición",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Dany Salvatierra, escritor: “Cualquier exceso de poder es peligroso”",
+      "link": "https://diariocorreo.pe/cultura/literatura-dany-salvatierra-escritor-peruano-cualquier-exceso-de-poder-es-peligroso-distopia-criaturas-virales-penguin-random-house-espana-peru-noticia/",
+      "category": "Cultura",
+      "date": "2026-11-12"
+    }
+  ]
+}
